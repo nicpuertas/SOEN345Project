@@ -1,16 +1,16 @@
 Summary of configuration for Project: Time
 --------------------------------------------------------------------------------
-    Script dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework
-      Base dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j
-    Major root: /Users/nicpuertas/documents/vscode/s345/project/defects4j/major
-      Repo dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j/project_repos
+    Script dir: /Users/nicpuertas/Documents/VSCode/S345/Project/defects4j/framework
+      Base dir: /Users/nicpuertas/Documents/VSCode/S345/Project/defects4j
+    Major root: /Users/nicpuertas/Documents/VSCode/S345/Project/defects4j/major
+      Repo dir: /Users/nicpuertas/Documents/VSCode/S345/Project/defects4j/project_repos
 --------------------------------------------------------------------------------
     Project ID: Time
        Program: joda-time
-    Build file: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework/projects/Time/Time.build.xml
+    Build file: /Users/nicpuertas/Documents/VSCode/S345/Project/defects4j/framework/projects/Time/Time.build.xml
 --------------------------------------------------------------------------------
            Vcs: Vcs::Git
-    Repository: /Users/nicpuertas/documents/vscode/s345/project/defects4j/project_repos/joda-time.git
-     Commit db: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework/projects/Time/active-bugs.csv
+    Repository: /Users/nicpuertas/Documents/VSCode/S345/Project/defects4j/project_repos/joda-time.git
+     Commit db: /Users/nicpuertas/Documents/VSCode/S345/Project/defects4j/framework/projects/Time/active-bugs.csv
 Number of bugs: 26
 --------------------------------------------------------------------------------

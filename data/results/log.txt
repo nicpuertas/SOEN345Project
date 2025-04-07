@@ -1,0 +1,58 @@
+===== Defect and Complexity Analysis Experiment =====
+Step 1: Checking out projects from Defects4J...
+Checking out Closure...
+Check out program version: Closure-1f...................................... OK
+Checked out Closure with 174 bugs
+Checking out Collections...
+Check out program version: Collections-1f.................................. OK
+Checked out Collections with 28 bugs
+Checking out Lang...
+Check out program version: Lang-1f......................................... OK
+Checked out Lang with 61 bugs
+Checking out Math...
+Check out program version: Math-1f......................................... OK
+Checked out Math with 106 bugs
+Checking out Mockito...
+Check out program version: Mockito-1f...................................... OK
+Checked out Mockito with 38 bugs
+Checking out Time...
+Check out program version: Time-1f......................................... OK
+Checked out Time with 26 bugs
+All projects checked out successfully
+Step 2: Analyzing projects for complexity and defects...
+Analyzing Closure...
+[WARN] Progressbar rendering conflicts with reporting to STDOUT. No progressbar will be shown. Try running with argument -r <file> to output the report to a file instead.
+[WARN] This analysis could be faster, please consider using Incremental Analysis: https://docs.pmd-code.org/pmd-doc-7.12.0/pmd_userdocs_incremental_analysis.html
+Completed analysis for Closure
+Analyzing Collections...
+[WARN] Progressbar rendering conflicts with reporting to STDOUT. No progressbar will be shown. Try running with argument -r <file> to output the report to a file instead.
+[WARN] This analysis could be faster, please consider using Incremental Analysis: https://docs.pmd-code.org/pmd-doc-7.12.0/pmd_userdocs_incremental_analysis.html
+Completed analysis for Collections
+Analyzing Lang...
+[WARN] Progressbar rendering conflicts with reporting to STDOUT. No progressbar will be shown. Try running with argument -r <file> to output the report to a file instead.
+[WARN] This analysis could be faster, please consider using Incremental Analysis: https://docs.pmd-code.org/pmd-doc-7.12.0/pmd_userdocs_incremental_analysis.html
+Completed analysis for Lang
+Analyzing Math...
+[WARN] Progressbar rendering conflicts with reporting to STDOUT. No progressbar will be shown. Try running with argument -r <file> to output the report to a file instead.
+[WARN] This analysis could be faster, please consider using Incremental Analysis: https://docs.pmd-code.org/pmd-doc-7.12.0/pmd_userdocs_incremental_analysis.html
+Completed analysis for Math
+Analyzing Mockito...
+[WARN] Progressbar rendering conflicts with reporting to STDOUT. No progressbar will be shown. Try running with argument -r <file> to output the report to a file instead.
+[WARN] This analysis could be faster, please consider using Incremental Analysis: https://docs.pmd-code.org/pmd-doc-7.12.0/pmd_userdocs_incremental_analysis.html
+Completed analysis for Mockito
+Analyzing Time...
+[WARN] Progressbar rendering conflicts with reporting to STDOUT. No progressbar will be shown. Try running with argument -r <file> to output the report to a file instead.
+[WARN] This analysis could be faster, please consider using Incremental Analysis: https://docs.pmd-code.org/pmd-doc-7.12.0/pmd_userdocs_incremental_analysis.html
+Completed analysis for Time
+Analysis complete! Results saved to data/results/analysis-results.json
+Step 3: Performing correlation analysis...
+Correlation Analysis Results:
+---------------------------
+Pearson correlation coefficient: 0.3129
+Strength of correlation: Weak
+Direction: Positive
+Analysis saved to data/results/correlation-analysis.json
+Step 4: Generating visualization...
+Visualization generated at data/results/visualization.html
+Experiment completed! Results are available in the data/results directory.
+Open data/results/visualization.html in a web browser to see the visualization.
