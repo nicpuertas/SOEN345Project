@@ -1,0 +1,31 @@
+{
+  "pearsonCorrelation": 0.3128914033702237,
+  "strength": "Weak",
+  "direction": "Positive",
+  "data": [
+    {
+      "complexity": 52.64,
+      "defectDensity": 0.45
+    },
+    {
+      "complexity": 45.1,
+      "defectDensity": 0.25
+    },
+    {
+      "complexity": 56.91,
+      "defectDensity": 0.54
+    },
+    {
+      "complexity": 38.72,
+      "defectDensity": 0.34
+    },
+    {
+      "complexity": 46.83,
+      "defectDensity": 0.4
+    },
+    {
+      "complexity": 54.05,
+      "defectDensity": 0.18
+    }
+  ]
+}

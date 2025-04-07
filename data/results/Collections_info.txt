@@ -1,0 +1,16 @@
+Summary of configuration for Project: Collections
+--------------------------------------------------------------------------------
+    Script dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework
+      Base dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j
+    Major root: /Users/nicpuertas/documents/vscode/s345/project/defects4j/major
+      Repo dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j/project_repos
+--------------------------------------------------------------------------------
+    Project ID: Collections
+       Program: commons-collections
+    Build file: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework/projects/Collections/Collections.build.xml
+--------------------------------------------------------------------------------
+           Vcs: Vcs::Git
+    Repository: /Users/nicpuertas/documents/vscode/s345/project/defects4j/project_repos/commons-collections.git
+     Commit db: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework/projects/Collections/active-bugs.csv
+Number of bugs: 28
+--------------------------------------------------------------------------------

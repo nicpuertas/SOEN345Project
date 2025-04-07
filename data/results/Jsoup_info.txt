@@ -1,0 +1,16 @@
+Summary of configuration for Project: Jsoup
+--------------------------------------------------------------------------------
+    Script dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework
+      Base dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j
+    Major root: /Users/nicpuertas/documents/vscode/s345/project/defects4j/major
+      Repo dir: /Users/nicpuertas/documents/vscode/s345/project/defects4j/project_repos
+--------------------------------------------------------------------------------
+    Project ID: Jsoup
+       Program: jsoup
+    Build file: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework/projects/Jsoup/Jsoup.build.xml
+--------------------------------------------------------------------------------
+           Vcs: Vcs::Git
+    Repository: /Users/nicpuertas/documents/vscode/s345/project/defects4j/project_repos/jsoup.git
+     Commit db: /Users/nicpuertas/documents/vscode/s345/project/defects4j/framework/projects/Jsoup/active-bugs.csv
+Number of bugs: 93
+--------------------------------------------------------------------------------

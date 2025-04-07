@@ -1,0 +1,38 @@
+{
+  "Closure": {
+    "loc": 379270,
+    "defectCount": 174,
+    "defectDensity": 0.45,
+    "avgComplexity": "52.64"
+  },
+  "Collections": {
+    "loc": 109084,
+    "defectCount": 28,
+    "defectDensity": 0.25,
+    "avgComplexity": "45.10"
+  },
+  "Lang": {
+    "loc": 111803,
+    "defectCount": 61,
+    "defectDensity": 0.54,
+    "avgComplexity": "56.91"
+  },
+  "Math": {
+    "loc": 306298,
+    "defectCount": 106,
+    "defectDensity": 0.34,
+    "avgComplexity": "38.72"
+  },
+  "Mockito": {
+    "loc": 94932,
+    "defectCount": 38,
+    "defectDensity": 0.40,
+    "avgComplexity": "46.83"
+  },
+  "Time": {
+    "loc": 141660,
+    "defectCount": 26,
+    "defectDensity": 0.18,
+    "avgComplexity": "54.05"
+  }
+}

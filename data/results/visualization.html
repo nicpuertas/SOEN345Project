@@ -1,0 +1,151 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Defect Density vs. Cyclomatic Complexity Analysis</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .chart-container { width: 800px; height: 500px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    th { background-color: #f2f2f2; }
+  </style>
+</head>
+<body>
+  <h1>Defect Density vs. Cyclomatic Complexity Analysis</h1>
+  
+  <div class="chart-container">
+    <canvas id="correlationChart"></canvas>
+  </div>
+  
+  <h2>Project Data</h2>
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Lines of Code</th>
+      <th>Defect Count</th>
+      <th>Defect Density (per KLOC)</th>
+      <th>Avg. Cyclomatic Complexity</th>
+    </tr>
+    
+      <tr>
+        <td>Closure</td>
+        <td>379,270</td>
+        <td>174</td>
+        <td>0.45</td>
+        <td>52.64</td>
+      </tr>
+    
+      <tr>
+        <td>Collections</td>
+        <td>109,084</td>
+        <td>28</td>
+        <td>0.25</td>
+        <td>45.10</td>
+      </tr>
+    
+      <tr>
+        <td>Lang</td>
+        <td>111,803</td>
+        <td>61</td>
+        <td>0.54</td>
+        <td>56.91</td>
+      </tr>
+    
+      <tr>
+        <td>Math</td>
+        <td>306,298</td>
+        <td>106</td>
+        <td>0.34</td>
+        <td>38.72</td>
+      </tr>
+    
+      <tr>
+        <td>Mockito</td>
+        <td>94,932</td>
+        <td>38</td>
+        <td>0.4</td>
+        <td>46.83</td>
+      </tr>
+    
+      <tr>
+        <td>Time</td>
+        <td>141,660</td>
+        <td>26</td>
+        <td>0.18</td>
+        <td>54.05</td>
+      </tr>
+    
+  </table>
+  
+  <script>
+    // Create scatter plot
+    const ctx = document.getElementById('correlationChart').getContext('2d');
+    const chart = new Chart(ctx, {
+      type: 'scatter',
+      data: {
+        datasets: [{
+          label: 'Projects',
+          data: [
+            {
+                x: 52.64,
+                y: 0.45,
+                label: 'Closure'
+              },{
+                x: 45.10,
+                y: 0.25,
+                label: 'Collections'
+              },{
+                x: 56.91,
+                y: 0.54,
+                label: 'Lang'
+              },{
+                x: 38.72,
+                y: 0.34,
+                label: 'Math'
+              },{
+                x: 46.83,
+                y: 0.4,
+                label: 'Mockito'
+              },{
+                x: 54.05,
+                y: 0.18,
+                label: 'Time'
+              }
+          ],
+          backgroundColor: 'rgba(54, 162, 235, 0.7)',
+          borderColor: 'rgba(54, 162, 235, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        scales: {
+          x: {
+            title: {
+              display: true,
+              text: 'Average Cyclomatic Complexity'
+            }
+          },
+          y: {
+            title: {
+              display: true,
+              text: 'Defect Density (defects per KLOC)'
+            }
+          }
+        },
+        plugins: {
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                const point = context.raw;
+                return `${point.label}: (Complexity: ${point.x}, Defect Density: ${point.y})`;
+              }
+            }
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
