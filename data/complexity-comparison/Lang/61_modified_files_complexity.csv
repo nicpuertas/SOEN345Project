@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang.text","data/temp/Lang_61f/src/java/org/apache/commons/lang/text/StrBuilder.java","3","70","The class 'StrBuilder' has a total cyclomatic complexity of 345 (highest 11).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang.text","data/temp/Lang_61f/src/java/org/apache/commons/lang/text/StrBuilder.java","3","1760","The method 'indexOf(String, int)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang.text","data/temp/Lang_61f/src/java/org/apache/commons/lang/text/StrBuilder.java","3","1883","The method 'lastIndexOf(String, int)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"4","org.apache.commons.lang.text","data/temp/Lang_61f/src/java/org/apache/commons/lang/text/StrBuilder.java","3","2265","The method 'read(char[], int, int)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

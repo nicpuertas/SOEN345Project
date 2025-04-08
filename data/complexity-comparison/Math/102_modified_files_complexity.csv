@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.stat.inference","data/temp/Math_102f/src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java","3","64","The method 'chiSquare(double[], long[])' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"2","org.apache.commons.math.stat.inference","data/temp/Math_102f/src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java","3","214","The method 'chiSquareDataSetsComparison(long[], long[])' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"

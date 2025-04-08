@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_33f/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java","3","70","The class 'PrototypeObjectType' has a total cyclomatic complexity of 108 (highest 15).","Design","CyclomaticComplexity"
+"2","com.google.javascript.rhino.jstype","data/temp/Closure_33f/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java","3","353","The method 'toStringHelper(boolean)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"3","com.google.javascript.rhino.jstype","data/temp/Closure_33f/src/com/google/javascript/rhino/jstype/PrototypeObjectType.java","3","444","The method 'isSubtype(JSType)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"

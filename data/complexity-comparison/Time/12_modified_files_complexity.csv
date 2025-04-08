@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time","data/temp/Time_12f/src/main/java/org/joda/time/LocalDate.java","3","82","The class 'LocalDate' has a total cyclomatic complexity of 177 (highest 6).","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time","data/temp/Time_12f/src/main/java/org/joda/time/LocalDateTime.java","3","80","The class 'LocalDateTime' has a total cyclomatic complexity of 188 (highest 6).","Design","CyclomaticComplexity"

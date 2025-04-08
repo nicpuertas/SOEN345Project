@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Create PMD cache directory
+mkdir -p .pmd-cache
+
 # Create results directory
 mkdir -p data/results
 
@@ -33,7 +36,7 @@ for i in "${!PROJECTS[@]}"; do
   defect_density=$(echo "scale=2; $defect_count / ($loc / 1000)" | bc | awk '{printf "%.2f", $0}')
   
   # Run PMD for cyclomatic complexity
-  pmd_output=$(pmd check -d "$project_path" -R category/java/design.xml/CyclomaticComplexity -f text)
+  pmd_output=$(pmd check -d "$project_path" -R category/java/design.xml/CyclomaticComplexity -f text --cache .pmd-cache)
   
   # Extract complexity values
   complexity_values=$(echo "$pmd_output" | grep -o "cyclomatic complexity of [0-9]*" | grep -o "[0-9]*")

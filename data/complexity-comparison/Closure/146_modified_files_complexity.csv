@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_146f/src/com/google/javascript/rhino/jstype/JSType.java","3","68","The class 'JSType' has a total cyclomatic complexity of 140 (highest 12).","Design","CyclomaticComplexity"
+"2","com.google.javascript.rhino.jstype","data/temp/Closure_146f/src/com/google/javascript/rhino/jstype/JSType.java","3","586","The method 'getGreatestSubtype(JSType, JSType)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

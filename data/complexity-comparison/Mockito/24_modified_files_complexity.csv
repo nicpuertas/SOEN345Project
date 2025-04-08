@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.mockito.internal.stubbing.defaultanswers","data/temp/Mockito_24f/src/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java","3","83","The method 'returnValueFor(Class<?>)' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"

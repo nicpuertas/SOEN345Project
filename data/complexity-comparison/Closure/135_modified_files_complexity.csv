@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_135f/src/com/google/javascript/jscomp/DevirtualizePrototypeMethods.java","3","193","The method 'isEligibleDefinition(SimpleDefinitionFinder, DefinitionSite)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_135f/src/com/google/javascript/rhino/jstype/FunctionType.java","3","68","The class 'FunctionType' has a total cyclomatic complexity of 139 (highest 12).","Design","CyclomaticComplexity"
+"2","com.google.javascript.rhino.jstype","data/temp/Closure_135f/src/com/google/javascript/rhino/jstype/FunctionType.java","3","655","The method 'toString()' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

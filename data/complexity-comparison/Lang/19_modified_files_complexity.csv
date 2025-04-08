@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang3.text.translate","data/temp/Lang_19f/src/main/java/org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java","3","37","The method 'translate(CharSequence, int, Writer)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"

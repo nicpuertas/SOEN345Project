@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_126f/src/com/google/javascript/jscomp/MinimizeExitPoints.java","3","106","The method 'tryMinimizeExits(Node, int, String)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"

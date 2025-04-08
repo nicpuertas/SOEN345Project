@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.analysis.solvers","data/temp/Math_85f/src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java","3","165","The method 'bracket(UnivariateRealFunction, double, double, double, int)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"

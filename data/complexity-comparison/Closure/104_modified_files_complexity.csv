@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_104f/src/com/google/javascript/rhino/jstype/UnionType.java","3","65","The class 'UnionType' has a total cyclomatic complexity of 91 (highest 10).","Design","CyclomaticComplexity"
+"2","com.google.javascript.rhino.jstype","data/temp/Closure_104f/src/com/google/javascript/rhino/jstype/UnionType.java","3","273","The method 'meet(JSType)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

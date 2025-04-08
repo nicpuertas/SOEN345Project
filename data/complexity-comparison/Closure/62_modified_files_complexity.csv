@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_62f/src/com/google/javascript/jscomp/LightweightMessageFormatter.java","3","66","The method 'format(JSError, boolean)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_46f/src/com/google/javascript/rhino/jstype/RecordType.java","3","140","The method 'getGreatestSubtypeHelper(JSType)' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"

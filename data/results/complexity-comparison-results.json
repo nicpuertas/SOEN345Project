@@ -1,0 +1,3525 @@
+{
+  "overall": {
+    "complexityIncreased": 40,
+    "complexityDecreased": 26,
+    "complexityUnchanged": 367,
+    "totalDefects": 433,
+    "percentIncreased": "9.24",
+    "percentDecreased": "6.00",
+    "percentUnchanged": "84.76"
+  },
+  "byProject": {
+    "Closure": {
+      "complexityIncreased": 9,
+      "complexityDecreased": 12,
+      "complexityUnchanged": 153,
+      "totalDefects": 174,
+      "defects": [
+        {
+          "id": "100",
+          "buggyComplexity": "53.07",
+          "fixedComplexity": "53.08",
+          "modifiedFilesComplexity": "17.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "101",
+          "buggyComplexity": "51.48",
+          "fixedComplexity": "51.48",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "102",
+          "buggyComplexity": "51.23",
+          "fixedComplexity": "51.23",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "103",
+          "buggyComplexity": "51.31",
+          "fixedComplexity": "51.19",
+          "modifiedFilesComplexity": "34.22",
+          "complexityChange": "decreased",
+          "percentChange": "-0.23"
+        },
+        {
+          "id": "104",
+          "buggyComplexity": "51.31",
+          "fixedComplexity": "51.31",
+          "modifiedFilesComplexity": "50.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "105",
+          "buggyComplexity": "51.51",
+          "fixedComplexity": "51.51",
+          "modifiedFilesComplexity": "53.07",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "106",
+          "buggyComplexity": "47.72",
+          "fixedComplexity": "47.72",
+          "modifiedFilesComplexity": "39.38",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.01"
+        },
+        {
+          "id": "107",
+          "buggyComplexity": "53.38",
+          "fixedComplexity": "53.38",
+          "modifiedFilesComplexity": "10.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "108",
+          "buggyComplexity": "53.38",
+          "fixedComplexity": "53.38",
+          "modifiedFilesComplexity": "15.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "109",
+          "buggyComplexity": "53.51",
+          "fixedComplexity": "53.51",
+          "modifiedFilesComplexity": "75.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "10",
+          "buggyComplexity": "52.78",
+          "fixedComplexity": "52.78",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "110",
+          "buggyComplexity": "53.34",
+          "fixedComplexity": "53.35",
+          "modifiedFilesComplexity": "11.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "111",
+          "buggyComplexity": "52.69",
+          "fixedComplexity": "52.69",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "112",
+          "buggyComplexity": "52.79",
+          "fixedComplexity": "52.79",
+          "modifiedFilesComplexity": "45.82",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "113",
+          "buggyComplexity": "52.78",
+          "fixedComplexity": "52.78",
+          "modifiedFilesComplexity": "45.80",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "114",
+          "buggyComplexity": "52.78",
+          "fixedComplexity": "52.78",
+          "modifiedFilesComplexity": "26.20",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "115",
+          "buggyComplexity": "52.77",
+          "fixedComplexity": "52.76",
+          "modifiedFilesComplexity": "32.40",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.02"
+        },
+        {
+          "id": "116",
+          "buggyComplexity": "52.77",
+          "fixedComplexity": "52.77",
+          "modifiedFilesComplexity": "34.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "117",
+          "buggyComplexity": "52.76",
+          "fixedComplexity": "52.76",
+          "modifiedFilesComplexity": "54.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "118",
+          "buggyComplexity": "52.73",
+          "fixedComplexity": "52.73",
+          "modifiedFilesComplexity": "13.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "119",
+          "buggyComplexity": "52.73",
+          "fixedComplexity": "52.73",
+          "modifiedFilesComplexity": "32.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "11",
+          "buggyComplexity": "52.81",
+          "fixedComplexity": "52.80",
+          "modifiedFilesComplexity": "75.63",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.00"
+        },
+        {
+          "id": "120",
+          "buggyComplexity": "52.62",
+          "fixedComplexity": "52.62",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "121",
+          "buggyComplexity": "52.62",
+          "fixedComplexity": "52.63",
+          "modifiedFilesComplexity": "39.25",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "122",
+          "buggyComplexity": "52.57",
+          "fixedComplexity": "52.57",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.00"
+        },
+        {
+          "id": "123",
+          "buggyComplexity": "52.59",
+          "fixedComplexity": "52.59",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "124",
+          "buggyComplexity": "52.56",
+          "fixedComplexity": "52.56",
+          "modifiedFilesComplexity": "22.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "125",
+          "buggyComplexity": "52.58",
+          "fixedComplexity": "52.58",
+          "modifiedFilesComplexity": "63.73",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "126",
+          "buggyComplexity": "52.97",
+          "fixedComplexity": "52.97",
+          "modifiedFilesComplexity": "15.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.00"
+        },
+        {
+          "id": "127",
+          "buggyComplexity": "52.97",
+          "fixedComplexity": "52.97",
+          "modifiedFilesComplexity": "12.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "128",
+          "buggyComplexity": "52.95",
+          "fixedComplexity": "52.95",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "129",
+          "buggyComplexity": "52.95",
+          "fixedComplexity": "52.95",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "12",
+          "buggyComplexity": "52.77",
+          "fixedComplexity": "52.77",
+          "modifiedFilesComplexity": "23.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "130",
+          "buggyComplexity": "52.82",
+          "fixedComplexity": "52.82",
+          "modifiedFilesComplexity": "32.43",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "131",
+          "buggyComplexity": "52.81",
+          "fixedComplexity": "52.82",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "132",
+          "buggyComplexity": "52.80",
+          "fixedComplexity": "52.80",
+          "modifiedFilesComplexity": "55.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "133",
+          "buggyComplexity": "52.74",
+          "fixedComplexity": "52.74",
+          "modifiedFilesComplexity": "86.75",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "134",
+          "buggyComplexity": "51.45",
+          "fixedComplexity": "51.46",
+          "modifiedFilesComplexity": "30.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "135",
+          "buggyComplexity": "51.55",
+          "fixedComplexity": "51.56",
+          "modifiedFilesComplexity": "41.25",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "136",
+          "buggyComplexity": "51.30",
+          "fixedComplexity": "51.31",
+          "modifiedFilesComplexity": "9.20",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "137",
+          "buggyComplexity": "51.31",
+          "fixedComplexity": "51.43",
+          "modifiedFilesComplexity": "49.81",
+          "complexityChange": "increased",
+          "percentChange": "0.24"
+        },
+        {
+          "id": "138",
+          "buggyComplexity": "51.32",
+          "fixedComplexity": "51.44",
+          "modifiedFilesComplexity": "49.38",
+          "complexityChange": "increased",
+          "percentChange": "0.24"
+        },
+        {
+          "id": "139",
+          "buggyComplexity": "51.47",
+          "fixedComplexity": "51.47",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "13",
+          "buggyComplexity": "52.68",
+          "fixedComplexity": "52.68",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "140",
+          "buggyComplexity": "51.47",
+          "fixedComplexity": "51.48",
+          "modifiedFilesComplexity": "76.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "141",
+          "buggyComplexity": "51.48",
+          "fixedComplexity": "51.37",
+          "modifiedFilesComplexity": "46.39",
+          "complexityChange": "decreased",
+          "percentChange": "-0.22"
+        },
+        {
+          "id": "142",
+          "buggyComplexity": "51.21",
+          "fixedComplexity": "51.22",
+          "modifiedFilesComplexity": "58.60",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "143",
+          "buggyComplexity": "51.22",
+          "fixedComplexity": "51.23",
+          "modifiedFilesComplexity": "36.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "144",
+          "buggyComplexity": "52.78",
+          "fixedComplexity": "52.71",
+          "modifiedFilesComplexity": "33.79",
+          "complexityChange": "decreased",
+          "percentChange": "-0.14"
+        },
+        {
+          "id": "145",
+          "buggyComplexity": "52.72",
+          "fixedComplexity": "52.72",
+          "modifiedFilesComplexity": "91.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "146",
+          "buggyComplexity": "52.62",
+          "fixedComplexity": "52.62",
+          "modifiedFilesComplexity": "76.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "147",
+          "buggyComplexity": "52.49",
+          "fixedComplexity": "52.49",
+          "modifiedFilesComplexity": "10.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "148",
+          "buggyComplexity": "52.30",
+          "fixedComplexity": "52.30",
+          "modifiedFilesComplexity": "38.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "149",
+          "buggyComplexity": "52.21",
+          "fixedComplexity": "52.23",
+          "modifiedFilesComplexity": "46.18",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "14",
+          "buggyComplexity": "52.70",
+          "fixedComplexity": "52.70",
+          "modifiedFilesComplexity": "45.29",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "150",
+          "buggyComplexity": "51.58",
+          "fixedComplexity": "51.58",
+          "modifiedFilesComplexity": "33.44",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "151",
+          "buggyComplexity": "51.74",
+          "fixedComplexity": "51.74",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "152",
+          "buggyComplexity": "52.25",
+          "fixedComplexity": "52.25",
+          "modifiedFilesComplexity": "90.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "153",
+          "buggyComplexity": "51.98",
+          "fixedComplexity": "51.88",
+          "modifiedFilesComplexity": "8.80",
+          "complexityChange": "decreased",
+          "percentChange": "-0.19"
+        },
+        {
+          "id": "154",
+          "buggyComplexity": "51.77",
+          "fixedComplexity": "51.77",
+          "modifiedFilesComplexity": "58.67",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.01"
+        },
+        {
+          "id": "155",
+          "buggyComplexity": "50.81",
+          "fixedComplexity": "50.84",
+          "modifiedFilesComplexity": "22.71",
+          "complexityChange": "increased",
+          "percentChange": "0.05"
+        },
+        {
+          "id": "156",
+          "buggyComplexity": "50.92",
+          "fixedComplexity": "50.84",
+          "modifiedFilesComplexity": "29.00",
+          "complexityChange": "decreased",
+          "percentChange": "-0.17"
+        },
+        {
+          "id": "157",
+          "buggyComplexity": "50.81",
+          "fixedComplexity": "50.84",
+          "modifiedFilesComplexity": "54.13",
+          "complexityChange": "increased",
+          "percentChange": "0.07"
+        },
+        {
+          "id": "158",
+          "buggyComplexity": "50.62",
+          "fixedComplexity": "50.63",
+          "modifiedFilesComplexity": "35.88",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "159",
+          "buggyComplexity": "50.63",
+          "fixedComplexity": "50.63",
+          "modifiedFilesComplexity": "35.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "15",
+          "buggyComplexity": "52.74",
+          "fixedComplexity": "52.70",
+          "modifiedFilesComplexity": "12.67",
+          "complexityChange": "decreased",
+          "percentChange": "-0.09"
+        },
+        {
+          "id": "160",
+          "buggyComplexity": "49.61",
+          "fixedComplexity": "49.69",
+          "modifiedFilesComplexity": "63.00",
+          "complexityChange": "increased",
+          "percentChange": "0.16"
+        },
+        {
+          "id": "161",
+          "buggyComplexity": "53.45",
+          "fixedComplexity": "53.45",
+          "modifiedFilesComplexity": "42.36",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "162",
+          "buggyComplexity": "53.60",
+          "fixedComplexity": "53.59",
+          "modifiedFilesComplexity": "9.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.00"
+        },
+        {
+          "id": "163",
+          "buggyComplexity": "52.83",
+          "fixedComplexity": "52.84",
+          "modifiedFilesComplexity": "13.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "164",
+          "buggyComplexity": "53.28",
+          "fixedComplexity": "53.29",
+          "modifiedFilesComplexity": "19.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "165",
+          "buggyComplexity": "52.81",
+          "fixedComplexity": "52.81",
+          "modifiedFilesComplexity": "36.17",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "166",
+          "buggyComplexity": "52.68",
+          "fixedComplexity": "52.68",
+          "modifiedFilesComplexity": "46.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "167",
+          "buggyComplexity": "52.76",
+          "fixedComplexity": "52.76",
+          "modifiedFilesComplexity": "60.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "168",
+          "buggyComplexity": "52.74",
+          "fixedComplexity": "52.74",
+          "modifiedFilesComplexity": "42.82",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "169",
+          "buggyComplexity": "52.74",
+          "fixedComplexity": "52.74",
+          "modifiedFilesComplexity": "44.38",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "16",
+          "buggyComplexity": "52.71",
+          "fixedComplexity": "52.71",
+          "modifiedFilesComplexity": "13.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "170",
+          "buggyComplexity": "52.97",
+          "fixedComplexity": "52.97",
+          "modifiedFilesComplexity": "12.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "171",
+          "buggyComplexity": "52.56",
+          "fixedComplexity": "52.57",
+          "modifiedFilesComplexity": "40.16",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "172",
+          "buggyComplexity": "52.57",
+          "fixedComplexity": "52.58",
+          "modifiedFilesComplexity": "39.69",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "173",
+          "buggyComplexity": "52.72",
+          "fixedComplexity": "52.73",
+          "modifiedFilesComplexity": "33.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "174",
+          "buggyComplexity": "52.80",
+          "fixedComplexity": "52.76",
+          "modifiedFilesComplexity": "8.40",
+          "complexityChange": "decreased",
+          "percentChange": "-0.08"
+        },
+        {
+          "id": "17",
+          "buggyComplexity": "52.71",
+          "fixedComplexity": "52.71",
+          "modifiedFilesComplexity": "42.45",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "18",
+          "buggyComplexity": "52.71",
+          "fixedComplexity": "52.71",
+          "modifiedFilesComplexity": "53.38",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.00"
+        },
+        {
+          "id": "19",
+          "buggyComplexity": "52.71",
+          "fixedComplexity": "52.71",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "1",
+          "buggyComplexity": "52.64",
+          "fixedComplexity": "52.65",
+          "modifiedFilesComplexity": "31.60",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "20",
+          "buggyComplexity": "52.68",
+          "fixedComplexity": "52.68",
+          "modifiedFilesComplexity": "55.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "21",
+          "buggyComplexity": "52.69",
+          "fixedComplexity": "52.68",
+          "modifiedFilesComplexity": "14.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.02"
+        },
+        {
+          "id": "22",
+          "buggyComplexity": "52.70",
+          "fixedComplexity": "52.68",
+          "modifiedFilesComplexity": "14.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.03"
+        },
+        {
+          "id": "23",
+          "buggyComplexity": "52.83",
+          "fixedComplexity": "52.79",
+          "modifiedFilesComplexity": "46.27",
+          "complexityChange": "decreased",
+          "percentChange": "-0.08"
+        },
+        {
+          "id": "24",
+          "buggyComplexity": "52.82",
+          "fixedComplexity": "52.82",
+          "modifiedFilesComplexity": "13.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "25",
+          "buggyComplexity": "52.81",
+          "fixedComplexity": "52.81",
+          "modifiedFilesComplexity": "53.50",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.00"
+        },
+        {
+          "id": "26",
+          "buggyComplexity": "52.81",
+          "fixedComplexity": "52.81",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "27",
+          "buggyComplexity": "52.84",
+          "fixedComplexity": "52.84",
+          "modifiedFilesComplexity": "81.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "28",
+          "buggyComplexity": "52.84",
+          "fixedComplexity": "52.84",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "29",
+          "buggyComplexity": "52.84",
+          "fixedComplexity": "52.84",
+          "modifiedFilesComplexity": "13.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "2",
+          "buggyComplexity": "52.60",
+          "fixedComplexity": "52.60",
+          "modifiedFilesComplexity": "71.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "30",
+          "buggyComplexity": "53.20",
+          "fixedComplexity": "53.20",
+          "modifiedFilesComplexity": "14.25",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "31",
+          "buggyComplexity": "53.24",
+          "fixedComplexity": "53.24",
+          "modifiedFilesComplexity": "58.57",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.00"
+        },
+        {
+          "id": "32",
+          "buggyComplexity": "53.23",
+          "fixedComplexity": "53.24",
+          "modifiedFilesComplexity": "82.63",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "33",
+          "buggyComplexity": "53.22",
+          "fixedComplexity": "53.22",
+          "modifiedFilesComplexity": "44.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "34",
+          "buggyComplexity": "53.28",
+          "fixedComplexity": "53.28",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "35",
+          "buggyComplexity": "53.30",
+          "fixedComplexity": "53.29",
+          "modifiedFilesComplexity": "49.11",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.01"
+        },
+        {
+          "id": "36",
+          "buggyComplexity": "53.29",
+          "fixedComplexity": "53.29",
+          "modifiedFilesComplexity": "37.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "37",
+          "buggyComplexity": "53.28",
+          "fixedComplexity": "53.28",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "38",
+          "buggyComplexity": "53.31",
+          "fixedComplexity": "53.31",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "39",
+          "buggyComplexity": "53.32",
+          "fixedComplexity": "53.27",
+          "modifiedFilesComplexity": "42.67",
+          "complexityChange": "decreased",
+          "percentChange": "-0.08"
+        },
+        {
+          "id": "3",
+          "buggyComplexity": "52.64",
+          "fixedComplexity": "52.60",
+          "modifiedFilesComplexity": "12.50",
+          "complexityChange": "decreased",
+          "percentChange": "-0.08"
+        },
+        {
+          "id": "40",
+          "buggyComplexity": "53.32",
+          "fixedComplexity": "53.32",
+          "modifiedFilesComplexity": "26.90",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.00"
+        },
+        {
+          "id": "41",
+          "buggyComplexity": "53.27",
+          "fixedComplexity": "53.28",
+          "modifiedFilesComplexity": "35.60",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "42",
+          "buggyComplexity": "53.19",
+          "fixedComplexity": "53.19",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "43",
+          "buggyComplexity": "53.17",
+          "fixedComplexity": "53.19",
+          "modifiedFilesComplexity": "47.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "44",
+          "buggyComplexity": "52.90",
+          "fixedComplexity": "52.90",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "45",
+          "buggyComplexity": "52.86",
+          "fixedComplexity": "52.86",
+          "modifiedFilesComplexity": "31.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "46",
+          "buggyComplexity": "52.66",
+          "fixedComplexity": "52.66",
+          "modifiedFilesComplexity": "16.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "47",
+          "buggyComplexity": "52.59",
+          "fixedComplexity": "52.59",
+          "modifiedFilesComplexity": "35.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "48",
+          "buggyComplexity": "52.60",
+          "fixedComplexity": "52.61",
+          "modifiedFilesComplexity": "46.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "49",
+          "buggyComplexity": "53.76",
+          "fixedComplexity": "53.76",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "4",
+          "buggyComplexity": "52.68",
+          "fixedComplexity": "52.68",
+          "modifiedFilesComplexity": "10.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "50",
+          "buggyComplexity": "53.75",
+          "fixedComplexity": "53.76",
+          "modifiedFilesComplexity": "41.60",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "51",
+          "buggyComplexity": "53.83",
+          "fixedComplexity": "53.83",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "52",
+          "buggyComplexity": "53.63",
+          "fixedComplexity": "53.63",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "53",
+          "buggyComplexity": "53.63",
+          "fixedComplexity": "53.63",
+          "modifiedFilesComplexity": "12.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "54",
+          "buggyComplexity": "53.64",
+          "fixedComplexity": "53.65",
+          "modifiedFilesComplexity": "45.29",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "55",
+          "buggyComplexity": "53.62",
+          "fixedComplexity": "53.62",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "56",
+          "buggyComplexity": "53.58",
+          "fixedComplexity": "53.58",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "57",
+          "buggyComplexity": "53.60",
+          "fixedComplexity": "53.60",
+          "modifiedFilesComplexity": "10.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "58",
+          "buggyComplexity": "53.56",
+          "fixedComplexity": "53.56",
+          "modifiedFilesComplexity": "25.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "59",
+          "buggyComplexity": "53.40",
+          "fixedComplexity": "53.40",
+          "modifiedFilesComplexity": "55.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "5",
+          "buggyComplexity": "52.56",
+          "fixedComplexity": "52.56",
+          "modifiedFilesComplexity": "13.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "60",
+          "buggyComplexity": "53.18",
+          "fixedComplexity": "53.19",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "61",
+          "buggyComplexity": "53.24",
+          "fixedComplexity": "53.24",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "62",
+          "buggyComplexity": "53.24",
+          "fixedComplexity": "53.24",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "63",
+          "buggyComplexity": "0.00",
+          "fixedComplexity": "0.00",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "NaN"
+        },
+        {
+          "id": "64",
+          "buggyComplexity": "49.60",
+          "fixedComplexity": "49.60",
+          "modifiedFilesComplexity": "63.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "65",
+          "buggyComplexity": "49.59",
+          "fixedComplexity": "49.59",
+          "modifiedFilesComplexity": "102.75",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "66",
+          "buggyComplexity": "49.64",
+          "fixedComplexity": "49.64",
+          "modifiedFilesComplexity": "66.56",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "67",
+          "buggyComplexity": "49.64",
+          "fixedComplexity": "49.64",
+          "modifiedFilesComplexity": "23.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "68",
+          "buggyComplexity": "49.64",
+          "fixedComplexity": "49.64",
+          "modifiedFilesComplexity": "79.38",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "69",
+          "buggyComplexity": "49.73",
+          "fixedComplexity": "49.67",
+          "modifiedFilesComplexity": "66.56",
+          "complexityChange": "decreased",
+          "percentChange": "-0.13"
+        },
+        {
+          "id": "6",
+          "buggyComplexity": "52.54",
+          "fixedComplexity": "52.58",
+          "modifiedFilesComplexity": "53.33",
+          "complexityChange": "increased",
+          "percentChange": "0.07"
+        },
+        {
+          "id": "70",
+          "buggyComplexity": "49.69",
+          "fixedComplexity": "49.69",
+          "modifiedFilesComplexity": "39.20",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "71",
+          "buggyComplexity": "50.85",
+          "fixedComplexity": "50.85",
+          "modifiedFilesComplexity": "54.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "72",
+          "buggyComplexity": "51.02",
+          "fixedComplexity": "51.02",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "73",
+          "buggyComplexity": "50.63",
+          "fixedComplexity": "50.63",
+          "modifiedFilesComplexity": "102.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "74",
+          "buggyComplexity": "50.65",
+          "fixedComplexity": "50.66",
+          "modifiedFilesComplexity": "39.61",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "75",
+          "buggyComplexity": "50.80",
+          "fixedComplexity": "50.80",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "76",
+          "buggyComplexity": "51.49",
+          "fixedComplexity": "51.47",
+          "modifiedFilesComplexity": "29.20",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.03"
+        },
+        {
+          "id": "77",
+          "buggyComplexity": "51.57",
+          "fixedComplexity": "51.57",
+          "modifiedFilesComplexity": "100.25",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "78",
+          "buggyComplexity": "51.57",
+          "fixedComplexity": "51.57",
+          "modifiedFilesComplexity": "41.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "79",
+          "buggyComplexity": "51.75",
+          "fixedComplexity": "51.75",
+          "modifiedFilesComplexity": "11.20",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "7",
+          "buggyComplexity": "52.74",
+          "fixedComplexity": "52.74",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "80",
+          "buggyComplexity": "51.70",
+          "fixedComplexity": "51.71",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "81",
+          "buggyComplexity": "51.71",
+          "fixedComplexity": "51.72",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "82",
+          "buggyComplexity": "51.97",
+          "fixedComplexity": "51.97",
+          "modifiedFilesComplexity": "63.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "83",
+          "buggyComplexity": "52.08",
+          "fixedComplexity": "52.08",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "84",
+          "buggyComplexity": "51.89",
+          "fixedComplexity": "51.91",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "increased",
+          "percentChange": "0.04"
+        },
+        {
+          "id": "85",
+          "buggyComplexity": "51.95",
+          "fixedComplexity": "51.94",
+          "modifiedFilesComplexity": "10.50",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.02"
+        },
+        {
+          "id": "86",
+          "buggyComplexity": "52.06",
+          "fixedComplexity": "52.06",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "87",
+          "buggyComplexity": "51.95",
+          "fixedComplexity": "51.96",
+          "modifiedFilesComplexity": "44.43",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "88",
+          "buggyComplexity": "51.91",
+          "fixedComplexity": "51.91",
+          "modifiedFilesComplexity": "19.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "89",
+          "buggyComplexity": "52.02",
+          "fixedComplexity": "52.13",
+          "modifiedFilesComplexity": "29.38",
+          "complexityChange": "increased",
+          "percentChange": "0.21"
+        },
+        {
+          "id": "8",
+          "buggyComplexity": "52.76",
+          "fixedComplexity": "52.76",
+          "modifiedFilesComplexity": "12.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "90",
+          "buggyComplexity": "52.29",
+          "fixedComplexity": "52.29",
+          "modifiedFilesComplexity": "43.75",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "91",
+          "buggyComplexity": "52.14",
+          "fixedComplexity": "52.15",
+          "modifiedFilesComplexity": "26.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "92",
+          "buggyComplexity": "52.26",
+          "fixedComplexity": "52.26",
+          "modifiedFilesComplexity": "43.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "93",
+          "buggyComplexity": "0.00",
+          "fixedComplexity": "0.00",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "NaN"
+        },
+        {
+          "id": "94",
+          "buggyComplexity": "52.15",
+          "fixedComplexity": "49.96",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "decreased",
+          "percentChange": "-4.20"
+        },
+        {
+          "id": "95",
+          "buggyComplexity": "51.61",
+          "fixedComplexity": "51.63",
+          "modifiedFilesComplexity": "34.67",
+          "complexityChange": "increased",
+          "percentChange": "0.04"
+        },
+        {
+          "id": "96",
+          "buggyComplexity": "52.05",
+          "fixedComplexity": "52.06",
+          "modifiedFilesComplexity": "67.25",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "97",
+          "buggyComplexity": "52.34",
+          "fixedComplexity": "52.34",
+          "modifiedFilesComplexity": "41.17",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "98",
+          "buggyComplexity": "52.90",
+          "fixedComplexity": "52.90",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "99",
+          "buggyComplexity": "52.89",
+          "fixedComplexity": "52.90",
+          "modifiedFilesComplexity": "20.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "9",
+          "buggyComplexity": "52.75",
+          "fixedComplexity": "52.75",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        }
+      ]
+    },
+    "Collections": {
+      "complexityIncreased": 3,
+      "complexityDecreased": 0,
+      "complexityUnchanged": 25,
+      "totalDefects": 28,
+      "defects": [
+        {
+          "id": "10",
+          "buggyComplexity": "45.25",
+          "fixedComplexity": "45.25",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "11",
+          "buggyComplexity": "45.71",
+          "fixedComplexity": "45.71",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "12",
+          "buggyComplexity": "45.71",
+          "fixedComplexity": "45.71",
+          "modifiedFilesComplexity": "82.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "13",
+          "buggyComplexity": "45.71",
+          "fixedComplexity": "45.72",
+          "modifiedFilesComplexity": "82.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "14",
+          "buggyComplexity": "45.72",
+          "fixedComplexity": "45.72",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "15",
+          "buggyComplexity": "45.72",
+          "fixedComplexity": "45.72",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "16",
+          "buggyComplexity": "45.72",
+          "fixedComplexity": "45.72",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "17",
+          "buggyComplexity": "44.25",
+          "fixedComplexity": "44.25",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "18",
+          "buggyComplexity": "44.32",
+          "fixedComplexity": "44.32",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "19",
+          "buggyComplexity": "44.76",
+          "fixedComplexity": "44.76",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "1",
+          "buggyComplexity": "45.11",
+          "fixedComplexity": "45.11",
+          "modifiedFilesComplexity": "41.13",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "20",
+          "buggyComplexity": "44.76",
+          "fixedComplexity": "44.76",
+          "modifiedFilesComplexity": "52.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "21",
+          "buggyComplexity": "44.06",
+          "fixedComplexity": "44.06",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "22",
+          "buggyComplexity": "45.63",
+          "fixedComplexity": "45.63",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "23",
+          "buggyComplexity": "45.69",
+          "fixedComplexity": "45.69",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "24",
+          "buggyComplexity": "45.69",
+          "fixedComplexity": "45.69",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "25",
+          "buggyComplexity": "45.79",
+          "fixedComplexity": "45.83",
+          "modifiedFilesComplexity": "65.00",
+          "complexityChange": "increased",
+          "percentChange": "0.09"
+        },
+        {
+          "id": "26",
+          "buggyComplexity": "46.26",
+          "fixedComplexity": "46.26",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "27",
+          "buggyComplexity": "46.28",
+          "fixedComplexity": "46.28",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "28",
+          "buggyComplexity": "46.29",
+          "fixedComplexity": "46.29",
+          "modifiedFilesComplexity": "32.60",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "2",
+          "buggyComplexity": "45.11",
+          "fixedComplexity": "45.14",
+          "modifiedFilesComplexity": "80.67",
+          "complexityChange": "increased",
+          "percentChange": "0.08"
+        },
+        {
+          "id": "3",
+          "buggyComplexity": "45.19",
+          "fixedComplexity": "45.19",
+          "modifiedFilesComplexity": "46.20",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "4",
+          "buggyComplexity": "45.19",
+          "fixedComplexity": "45.19",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "5",
+          "buggyComplexity": "45.19",
+          "fixedComplexity": "45.19",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "6",
+          "buggyComplexity": "45.19",
+          "fixedComplexity": "45.19",
+          "modifiedFilesComplexity": "41.13",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "7",
+          "buggyComplexity": "45.25",
+          "fixedComplexity": "45.28",
+          "modifiedFilesComplexity": "82.67",
+          "complexityChange": "increased",
+          "percentChange": "0.05"
+        },
+        {
+          "id": "8",
+          "buggyComplexity": "45.28",
+          "fixedComplexity": "45.28",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "9",
+          "buggyComplexity": "45.28",
+          "fixedComplexity": "45.28",
+          "modifiedFilesComplexity": "82.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        }
+      ]
+    },
+    "Lang": {
+      "complexityIncreased": 14,
+      "complexityDecreased": 6,
+      "complexityUnchanged": 41,
+      "totalDefects": 61,
+      "defects": [
+        {
+          "id": "10",
+          "buggyComplexity": "56.03",
+          "fixedComplexity": "56.00",
+          "modifiedFilesComplexity": "47.33",
+          "complexityChange": "decreased",
+          "percentChange": "-0.06"
+        },
+        {
+          "id": "11",
+          "buggyComplexity": "56.03",
+          "fixedComplexity": "56.05",
+          "modifiedFilesComplexity": "30.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "12",
+          "buggyComplexity": "56.00",
+          "fixedComplexity": "56.03",
+          "modifiedFilesComplexity": "28.00",
+          "complexityChange": "increased",
+          "percentChange": "0.06"
+        },
+        {
+          "id": "13",
+          "buggyComplexity": "55.83",
+          "fixedComplexity": "55.83",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "14",
+          "buggyComplexity": "56.20",
+          "fixedComplexity": "56.22",
+          "modifiedFilesComplexity": "56.71",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "15",
+          "buggyComplexity": "56.19",
+          "fixedComplexity": "56.18",
+          "modifiedFilesComplexity": "31.75",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.01"
+        },
+        {
+          "id": "16",
+          "buggyComplexity": "55.74",
+          "fixedComplexity": "55.78",
+          "modifiedFilesComplexity": "123.00",
+          "complexityChange": "increased",
+          "percentChange": "0.06"
+        },
+        {
+          "id": "17",
+          "buggyComplexity": "55.44",
+          "fixedComplexity": "55.44",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "18",
+          "buggyComplexity": "0.00",
+          "fixedComplexity": "0.00",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "NaN"
+        },
+        {
+          "id": "19",
+          "buggyComplexity": "55.47",
+          "fixedComplexity": "55.53",
+          "modifiedFilesComplexity": "19.00",
+          "complexityChange": "increased",
+          "percentChange": "0.12"
+        },
+        {
+          "id": "1",
+          "buggyComplexity": "56.83",
+          "fixedComplexity": "56.92",
+          "modifiedFilesComplexity": "117.00",
+          "complexityChange": "increased",
+          "percentChange": "0.16"
+        },
+        {
+          "id": "20",
+          "buggyComplexity": "55.48",
+          "fixedComplexity": "55.47",
+          "modifiedFilesComplexity": "56.59",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.03"
+        },
+        {
+          "id": "21",
+          "buggyComplexity": "55.91",
+          "fixedComplexity": "55.91",
+          "modifiedFilesComplexity": "54.60",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "22",
+          "buggyComplexity": "55.77",
+          "fixedComplexity": "55.85",
+          "modifiedFilesComplexity": "36.50",
+          "complexityChange": "increased",
+          "percentChange": "0.15"
+        },
+        {
+          "id": "23",
+          "buggyComplexity": "54.90",
+          "fixedComplexity": "55.16",
+          "modifiedFilesComplexity": "30.50",
+          "complexityChange": "increased",
+          "percentChange": "0.46"
+        },
+        {
+          "id": "24",
+          "buggyComplexity": "54.90",
+          "fixedComplexity": "54.90",
+          "modifiedFilesComplexity": "121.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "25",
+          "buggyComplexity": "0.00",
+          "fixedComplexity": "0.00",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "NaN"
+        },
+        {
+          "id": "26",
+          "buggyComplexity": "55.12",
+          "fixedComplexity": "55.12",
+          "modifiedFilesComplexity": "47.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "27",
+          "buggyComplexity": "55.03",
+          "fixedComplexity": "55.08",
+          "modifiedFilesComplexity": "121.67",
+          "complexityChange": "increased",
+          "percentChange": "0.09"
+        },
+        {
+          "id": "28",
+          "buggyComplexity": "56.74",
+          "fixedComplexity": "56.32",
+          "modifiedFilesComplexity": "10.00",
+          "complexityChange": "decreased",
+          "percentChange": "-0.75"
+        },
+        {
+          "id": "29",
+          "buggyComplexity": "56.71",
+          "fixedComplexity": "56.71",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "2",
+          "buggyComplexity": "0.00",
+          "fixedComplexity": "0.00",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "NaN"
+        },
+        {
+          "id": "30",
+          "buggyComplexity": "57.72",
+          "fixedComplexity": "56.53",
+          "modifiedFilesComplexity": "57.31",
+          "complexityChange": "decreased",
+          "percentChange": "-2.05"
+        },
+        {
+          "id": "31",
+          "buggyComplexity": "58.11",
+          "fixedComplexity": "57.72",
+          "modifiedFilesComplexity": "67.15",
+          "complexityChange": "decreased",
+          "percentChange": "-0.68"
+        },
+        {
+          "id": "32",
+          "buggyComplexity": "57.27",
+          "fixedComplexity": "57.30",
+          "modifiedFilesComplexity": "36.67",
+          "complexityChange": "increased",
+          "percentChange": "0.05"
+        },
+        {
+          "id": "33",
+          "buggyComplexity": "57.26",
+          "fixedComplexity": "57.27",
+          "modifiedFilesComplexity": "53.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "34",
+          "buggyComplexity": "57.27",
+          "fixedComplexity": "57.26",
+          "modifiedFilesComplexity": "123.50",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.02"
+        },
+        {
+          "id": "35",
+          "buggyComplexity": "56.67",
+          "fixedComplexity": "56.69",
+          "modifiedFilesComplexity": "61.73",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "36",
+          "buggyComplexity": "56.45",
+          "fixedComplexity": "56.53",
+          "modifiedFilesComplexity": "119.67",
+          "complexityChange": "increased",
+          "percentChange": "0.13"
+        },
+        {
+          "id": "37",
+          "buggyComplexity": "56.92",
+          "fixedComplexity": "56.95",
+          "modifiedFilesComplexity": "61.45",
+          "complexityChange": "increased",
+          "percentChange": "0.07"
+        },
+        {
+          "id": "38",
+          "buggyComplexity": "57.32",
+          "fixedComplexity": "57.32",
+          "modifiedFilesComplexity": "47.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "39",
+          "buggyComplexity": "57.50",
+          "fixedComplexity": "57.53",
+          "modifiedFilesComplexity": "74.73",
+          "complexityChange": "increased",
+          "percentChange": "0.07"
+        },
+        {
+          "id": "3",
+          "buggyComplexity": "56.62",
+          "fixedComplexity": "56.65",
+          "modifiedFilesComplexity": "113.00",
+          "complexityChange": "increased",
+          "percentChange": "0.05"
+        },
+        {
+          "id": "40",
+          "buggyComplexity": "56.33",
+          "fixedComplexity": "56.35",
+          "modifiedFilesComplexity": "78.20",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "41",
+          "buggyComplexity": "56.31",
+          "fixedComplexity": "55.96",
+          "modifiedFilesComplexity": "53.00",
+          "complexityChange": "decreased",
+          "percentChange": "-0.63"
+        },
+        {
+          "id": "42",
+          "buggyComplexity": "56.43",
+          "fixedComplexity": "56.43",
+          "modifiedFilesComplexity": "14.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "43",
+          "buggyComplexity": "56.43",
+          "fixedComplexity": "56.43",
+          "modifiedFilesComplexity": "12.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "44",
+          "buggyComplexity": "56.34",
+          "fixedComplexity": "56.39",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "increased",
+          "percentChange": "0.10"
+        },
+        {
+          "id": "45",
+          "buggyComplexity": "56.62",
+          "fixedComplexity": "56.21",
+          "modifiedFilesComplexity": "10.00",
+          "complexityChange": "decreased",
+          "percentChange": "-0.74"
+        },
+        {
+          "id": "46",
+          "buggyComplexity": "56.05",
+          "fixedComplexity": "56.06",
+          "modifiedFilesComplexity": "47.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "47",
+          "buggyComplexity": "56.82",
+          "fixedComplexity": "56.84",
+          "modifiedFilesComplexity": "103.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "48",
+          "buggyComplexity": "0.00",
+          "fixedComplexity": "0.00",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "NaN"
+        },
+        {
+          "id": "49",
+          "buggyComplexity": "56.21",
+          "fixedComplexity": "56.23",
+          "modifiedFilesComplexity": "34.83",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "4",
+          "buggyComplexity": "56.98",
+          "fixedComplexity": "56.98",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "50",
+          "buggyComplexity": "56.15",
+          "fixedComplexity": "56.13",
+          "modifiedFilesComplexity": "47.50",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.04"
+        },
+        {
+          "id": "51",
+          "buggyComplexity": "56.61",
+          "fixedComplexity": "56.61",
+          "modifiedFilesComplexity": "69.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "52",
+          "buggyComplexity": "56.59",
+          "fixedComplexity": "56.61",
+          "modifiedFilesComplexity": "41.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.04"
+        },
+        {
+          "id": "53",
+          "buggyComplexity": "56.54",
+          "fixedComplexity": "56.54",
+          "modifiedFilesComplexity": "59.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "54",
+          "buggyComplexity": "56.31",
+          "fixedComplexity": "56.32",
+          "modifiedFilesComplexity": "23.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "55",
+          "buggyComplexity": "56.31",
+          "fixedComplexity": "56.31",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "56",
+          "buggyComplexity": "55.65",
+          "fixedComplexity": "55.66",
+          "modifiedFilesComplexity": "48.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "57",
+          "buggyComplexity": "55.65",
+          "fixedComplexity": "55.65",
+          "modifiedFilesComplexity": "22.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "58",
+          "buggyComplexity": "55.69",
+          "fixedComplexity": "55.69",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "59",
+          "buggyComplexity": "55.33",
+          "fixedComplexity": "55.33",
+          "modifiedFilesComplexity": "94.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "5",
+          "buggyComplexity": "56.60",
+          "fixedComplexity": "56.69",
+          "modifiedFilesComplexity": "32.00",
+          "complexityChange": "increased",
+          "percentChange": "0.15"
+        },
+        {
+          "id": "60",
+          "buggyComplexity": "55.06",
+          "fixedComplexity": "55.06",
+          "modifiedFilesComplexity": "94.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "61",
+          "buggyComplexity": "55.05",
+          "fixedComplexity": "55.05",
+          "modifiedFilesComplexity": "94.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "6",
+          "buggyComplexity": "56.42",
+          "fixedComplexity": "56.42",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "7",
+          "buggyComplexity": "56.69",
+          "fixedComplexity": "56.69",
+          "modifiedFilesComplexity": "124.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "8",
+          "buggyComplexity": "55.59",
+          "fixedComplexity": "55.59",
+          "modifiedFilesComplexity": "43.33",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "9",
+          "buggyComplexity": "56.00",
+          "fixedComplexity": "56.02",
+          "modifiedFilesComplexity": "48.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        }
+      ]
+    },
+    "Math": {
+      "complexityIncreased": 9,
+      "complexityDecreased": 5,
+      "complexityUnchanged": 92,
+      "totalDefects": 106,
+      "defects": [
+        {
+          "id": "100",
+          "buggyComplexity": "31.52",
+          "fixedComplexity": "31.52",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "101",
+          "buggyComplexity": "31.45",
+          "fixedComplexity": "31.45",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "102",
+          "buggyComplexity": "31.87",
+          "fixedComplexity": "31.61",
+          "modifiedFilesComplexity": "13.50",
+          "complexityChange": "decreased",
+          "percentChange": "-0.79"
+        },
+        {
+          "id": "103",
+          "buggyComplexity": "31.86",
+          "fixedComplexity": "31.86",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "104",
+          "buggyComplexity": "32.01",
+          "fixedComplexity": "32.01",
+          "modifiedFilesComplexity": "12.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "105",
+          "buggyComplexity": "34.25",
+          "fixedComplexity": "34.25",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "106",
+          "buggyComplexity": "34.55",
+          "fixedComplexity": "34.55",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "10",
+          "buggyComplexity": "38.85",
+          "fixedComplexity": "38.85",
+          "modifiedFilesComplexity": "57.75",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "11",
+          "buggyComplexity": "38.80",
+          "fixedComplexity": "38.80",
+          "modifiedFilesComplexity": "12.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "12",
+          "buggyComplexity": "38.80",
+          "fixedComplexity": "38.80",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "13",
+          "buggyComplexity": "38.80",
+          "fixedComplexity": "38.80",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "14",
+          "buggyComplexity": "38.80",
+          "fixedComplexity": "38.80",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "15",
+          "buggyComplexity": "38.43",
+          "fixedComplexity": "38.43",
+          "modifiedFilesComplexity": "52.62",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "16",
+          "buggyComplexity": "38.50",
+          "fixedComplexity": "38.42",
+          "modifiedFilesComplexity": "52.62",
+          "complexityChange": "decreased",
+          "percentChange": "-0.21"
+        },
+        {
+          "id": "17",
+          "buggyComplexity": "38.77",
+          "fixedComplexity": "38.78",
+          "modifiedFilesComplexity": "44.63",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "18",
+          "buggyComplexity": "38.73",
+          "fixedComplexity": "38.73",
+          "modifiedFilesComplexity": "73.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "19",
+          "buggyComplexity": "38.76",
+          "fixedComplexity": "38.78",
+          "modifiedFilesComplexity": "73.67",
+          "complexityChange": "increased",
+          "percentChange": "0.05"
+        },
+        {
+          "id": "1",
+          "buggyComplexity": "38.71",
+          "fixedComplexity": "38.73",
+          "modifiedFilesComplexity": "34.13",
+          "complexityChange": "increased",
+          "percentChange": "0.06"
+        },
+        {
+          "id": "20",
+          "buggyComplexity": "38.76",
+          "fixedComplexity": "38.76",
+          "modifiedFilesComplexity": "71.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "21",
+          "buggyComplexity": "38.73",
+          "fixedComplexity": "38.73",
+          "modifiedFilesComplexity": "16.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "22",
+          "buggyComplexity": "38.85",
+          "fixedComplexity": "38.85",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "23",
+          "buggyComplexity": "38.85",
+          "fixedComplexity": "38.85",
+          "modifiedFilesComplexity": "30.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "24",
+          "buggyComplexity": "38.67",
+          "fixedComplexity": "38.67",
+          "modifiedFilesComplexity": "30.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "25",
+          "buggyComplexity": "38.71",
+          "fixedComplexity": "38.62",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "decreased",
+          "percentChange": "-0.24"
+        },
+        {
+          "id": "26",
+          "buggyComplexity": "37.93",
+          "fixedComplexity": "37.93",
+          "modifiedFilesComplexity": "31.25",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "27",
+          "buggyComplexity": "37.93",
+          "fixedComplexity": "37.93",
+          "modifiedFilesComplexity": "31.25",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "28",
+          "buggyComplexity": "37.92",
+          "fixedComplexity": "37.93",
+          "modifiedFilesComplexity": "18.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "29",
+          "buggyComplexity": "38.35",
+          "fixedComplexity": "38.36",
+          "modifiedFilesComplexity": "121.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.05"
+        },
+        {
+          "id": "2",
+          "buggyComplexity": "39.15",
+          "fixedComplexity": "39.15",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "30",
+          "buggyComplexity": "38.27",
+          "fixedComplexity": "38.27",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "31",
+          "buggyComplexity": "37.88",
+          "fixedComplexity": "37.86",
+          "modifiedFilesComplexity": "12.00",
+          "complexityChange": "decreased",
+          "percentChange": "-0.07"
+        },
+        {
+          "id": "32",
+          "buggyComplexity": "37.88",
+          "fixedComplexity": "37.88",
+          "modifiedFilesComplexity": "13.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "33",
+          "buggyComplexity": "38.06",
+          "fixedComplexity": "38.06",
+          "modifiedFilesComplexity": "29.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "34",
+          "buggyComplexity": "38.13",
+          "fixedComplexity": "38.13",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "35",
+          "buggyComplexity": "38.13",
+          "fixedComplexity": "38.13",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "36",
+          "buggyComplexity": "37.95",
+          "fixedComplexity": "37.95",
+          "modifiedFilesComplexity": "46.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "37",
+          "buggyComplexity": "38.12",
+          "fixedComplexity": "38.14",
+          "modifiedFilesComplexity": "123.00",
+          "complexityChange": "increased",
+          "percentChange": "0.06"
+        },
+        {
+          "id": "38",
+          "buggyComplexity": "37.95",
+          "fixedComplexity": "37.94",
+          "modifiedFilesComplexity": "112.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.04"
+        },
+        {
+          "id": "39",
+          "buggyComplexity": "37.94",
+          "fixedComplexity": "37.95",
+          "modifiedFilesComplexity": "23.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "3",
+          "buggyComplexity": "39.16",
+          "fixedComplexity": "39.16",
+          "modifiedFilesComplexity": "38.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "40",
+          "buggyComplexity": "38.09",
+          "fixedComplexity": "38.09",
+          "modifiedFilesComplexity": "33.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "41",
+          "buggyComplexity": "38.09",
+          "fixedComplexity": "38.09",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "42",
+          "buggyComplexity": "38.18",
+          "fixedComplexity": "38.09",
+          "modifiedFilesComplexity": "29.50",
+          "complexityChange": "decreased",
+          "percentChange": "-0.24"
+        },
+        {
+          "id": "43",
+          "buggyComplexity": "38.20",
+          "fixedComplexity": "38.20",
+          "modifiedFilesComplexity": "12.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "44",
+          "buggyComplexity": "38.58",
+          "fixedComplexity": "38.59",
+          "modifiedFilesComplexity": "15.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "45",
+          "buggyComplexity": "39.54",
+          "fixedComplexity": "39.54",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "46",
+          "buggyComplexity": "40.44",
+          "fixedComplexity": "40.44",
+          "modifiedFilesComplexity": "106.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.02"
+        },
+        {
+          "id": "47",
+          "buggyComplexity": "40.44",
+          "fixedComplexity": "40.45",
+          "modifiedFilesComplexity": "108.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.01"
+        },
+        {
+          "id": "48",
+          "buggyComplexity": "40.46",
+          "fixedComplexity": "40.47",
+          "modifiedFilesComplexity": "34.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "49",
+          "buggyComplexity": "41.41",
+          "fixedComplexity": "41.41",
+          "modifiedFilesComplexity": "135.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "4",
+          "buggyComplexity": "39.22",
+          "fixedComplexity": "39.22",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "50",
+          "buggyComplexity": "41.49",
+          "fixedComplexity": "41.49",
+          "modifiedFilesComplexity": "32.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.01"
+        },
+        {
+          "id": "51",
+          "buggyComplexity": "41.70",
+          "fixedComplexity": "41.72",
+          "modifiedFilesComplexity": "33.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "52",
+          "buggyComplexity": "39.68",
+          "fixedComplexity": "39.68",
+          "modifiedFilesComplexity": "53.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "53",
+          "buggyComplexity": "39.06",
+          "fixedComplexity": "39.06",
+          "modifiedFilesComplexity": "88.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "54",
+          "buggyComplexity": "39.50",
+          "fixedComplexity": "39.53",
+          "modifiedFilesComplexity": "43.69",
+          "complexityChange": "increased",
+          "percentChange": "0.06"
+        },
+        {
+          "id": "55",
+          "buggyComplexity": "39.57",
+          "fixedComplexity": "39.57",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "56",
+          "buggyComplexity": "39.57",
+          "fixedComplexity": "39.57",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "57",
+          "buggyComplexity": "39.74",
+          "fixedComplexity": "39.74",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "58",
+          "buggyComplexity": "39.73",
+          "fixedComplexity": "39.73",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "59",
+          "buggyComplexity": "39.30",
+          "fixedComplexity": "39.30",
+          "modifiedFilesComplexity": "62.44",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "5",
+          "buggyComplexity": "39.65",
+          "fixedComplexity": "39.65",
+          "modifiedFilesComplexity": "123.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "60",
+          "buggyComplexity": "39.18",
+          "fixedComplexity": "39.18",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "61",
+          "buggyComplexity": "42.12",
+          "fixedComplexity": "42.12",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "62",
+          "buggyComplexity": "42.12",
+          "fixedComplexity": "42.12",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "63",
+          "buggyComplexity": "41.48",
+          "fixedComplexity": "41.48",
+          "modifiedFilesComplexity": "42.80",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "64",
+          "buggyComplexity": "41.09",
+          "fixedComplexity": "41.11",
+          "modifiedFilesComplexity": "45.20",
+          "complexityChange": "increased",
+          "percentChange": "0.05"
+        },
+        {
+          "id": "65",
+          "buggyComplexity": "41.02",
+          "fixedComplexity": "41.02",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "66",
+          "buggyComplexity": "41.37",
+          "fixedComplexity": "41.37",
+          "modifiedFilesComplexity": "31.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.01"
+        },
+        {
+          "id": "67",
+          "buggyComplexity": "41.58",
+          "fixedComplexity": "41.58",
+          "modifiedFilesComplexity": "15.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "68",
+          "buggyComplexity": "41.01",
+          "fixedComplexity": "41.03",
+          "modifiedFilesComplexity": "44.20",
+          "complexityChange": "increased",
+          "percentChange": "0.06"
+        },
+        {
+          "id": "69",
+          "buggyComplexity": "41.01",
+          "fixedComplexity": "41.01",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "6",
+          "buggyComplexity": "39.75",
+          "fixedComplexity": "39.75",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "70",
+          "buggyComplexity": "41.01",
+          "fixedComplexity": "41.01",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "71",
+          "buggyComplexity": "42.15",
+          "fixedComplexity": "42.15",
+          "modifiedFilesComplexity": "15.67",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "72",
+          "buggyComplexity": "42.74",
+          "fixedComplexity": "42.74",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "73",
+          "buggyComplexity": "42.74",
+          "fixedComplexity": "42.74",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "74",
+          "buggyComplexity": "43.33",
+          "fixedComplexity": "43.34",
+          "modifiedFilesComplexity": "27.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "75",
+          "buggyComplexity": "43.39",
+          "fixedComplexity": "43.39",
+          "modifiedFilesComplexity": "10.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "76",
+          "buggyComplexity": "43.39",
+          "fixedComplexity": "43.39",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "77",
+          "buggyComplexity": "43.37",
+          "fixedComplexity": "43.36",
+          "modifiedFilesComplexity": "88.25",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.03"
+        },
+        {
+          "id": "78",
+          "buggyComplexity": "43.29",
+          "fixedComplexity": "43.32",
+          "modifiedFilesComplexity": "25.00",
+          "complexityChange": "increased",
+          "percentChange": "0.08"
+        },
+        {
+          "id": "79",
+          "buggyComplexity": "43.26",
+          "fixedComplexity": "43.26",
+          "modifiedFilesComplexity": "48.43",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "7",
+          "buggyComplexity": "39.91",
+          "fixedComplexity": "39.91",
+          "modifiedFilesComplexity": "15.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "80",
+          "buggyComplexity": "43.24",
+          "fixedComplexity": "43.24",
+          "modifiedFilesComplexity": "52.43",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "81",
+          "buggyComplexity": "43.24",
+          "fixedComplexity": "43.24",
+          "modifiedFilesComplexity": "52.43",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "82",
+          "buggyComplexity": "43.26",
+          "fixedComplexity": "43.26",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "83",
+          "buggyComplexity": "43.26",
+          "fixedComplexity": "43.26",
+          "modifiedFilesComplexity": "13.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "84",
+          "buggyComplexity": "43.26",
+          "fixedComplexity": "43.26",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "85",
+          "buggyComplexity": "43.42",
+          "fixedComplexity": "43.42",
+          "modifiedFilesComplexity": "15.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "86",
+          "buggyComplexity": "43.49",
+          "fixedComplexity": "43.49",
+          "modifiedFilesComplexity": "11.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "87",
+          "buggyComplexity": "43.49",
+          "fixedComplexity": "43.49",
+          "modifiedFilesComplexity": "13.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "88",
+          "buggyComplexity": "43.48",
+          "fixedComplexity": "43.48",
+          "modifiedFilesComplexity": "13.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "89",
+          "buggyComplexity": "41.10",
+          "fixedComplexity": "41.10",
+          "modifiedFilesComplexity": "10.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "8",
+          "buggyComplexity": "39.96",
+          "fixedComplexity": "39.96",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "90",
+          "buggyComplexity": "41.10",
+          "fixedComplexity": "41.10",
+          "modifiedFilesComplexity": "10.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "91",
+          "buggyComplexity": "40.63",
+          "fixedComplexity": "40.63",
+          "modifiedFilesComplexity": "29.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "92",
+          "buggyComplexity": "37.38",
+          "fixedComplexity": "37.36",
+          "modifiedFilesComplexity": "39.43",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.05"
+        },
+        {
+          "id": "93",
+          "buggyComplexity": "37.47",
+          "fixedComplexity": "37.50",
+          "modifiedFilesComplexity": "40.17",
+          "complexityChange": "increased",
+          "percentChange": "0.09"
+        },
+        {
+          "id": "94",
+          "buggyComplexity": "37.57",
+          "fixedComplexity": "37.59",
+          "modifiedFilesComplexity": "39.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.05"
+        },
+        {
+          "id": "95",
+          "buggyComplexity": "33.18",
+          "fixedComplexity": "33.18",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "96",
+          "buggyComplexity": "33.95",
+          "fixedComplexity": "33.95",
+          "modifiedFilesComplexity": "10.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "97",
+          "buggyComplexity": "31.85",
+          "fixedComplexity": "31.85",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "98",
+          "buggyComplexity": "31.85",
+          "fixedComplexity": "31.85",
+          "modifiedFilesComplexity": "53.36",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "99",
+          "buggyComplexity": "41.88",
+          "fixedComplexity": "41.95",
+          "modifiedFilesComplexity": "41.29",
+          "complexityChange": "increased",
+          "percentChange": "0.15"
+        },
+        {
+          "id": "9",
+          "buggyComplexity": "39.94",
+          "fixedComplexity": "39.94",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        }
+      ]
+    },
+    "Mockito": {
+      "complexityIncreased": 0,
+      "complexityDecreased": 0,
+      "complexityUnchanged": 38,
+      "totalDefects": 38,
+      "defects": [
+        {
+          "id": "10",
+          "buggyComplexity": "47.27",
+          "fixedComplexity": "47.27",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "11",
+          "buggyComplexity": "47.27",
+          "fixedComplexity": "47.27",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "12",
+          "buggyComplexity": "47.81",
+          "fixedComplexity": "47.81",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "13",
+          "buggyComplexity": "47.81",
+          "fixedComplexity": "47.81",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "14",
+          "buggyComplexity": "47.81",
+          "fixedComplexity": "47.81",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "15",
+          "buggyComplexity": "47.26",
+          "fixedComplexity": "47.26",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "16",
+          "buggyComplexity": "47.73",
+          "fixedComplexity": "47.73",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "17",
+          "buggyComplexity": "47.73",
+          "fixedComplexity": "47.73",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "18",
+          "buggyComplexity": "46.83",
+          "fixedComplexity": "46.84",
+          "modifiedFilesComplexity": "17.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "19",
+          "buggyComplexity": "46.83",
+          "fixedComplexity": "46.83",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "1",
+          "buggyComplexity": "46.84",
+          "fixedComplexity": "46.84",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "20",
+          "buggyComplexity": "46.78",
+          "fixedComplexity": "46.78",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "21",
+          "buggyComplexity": "46.76",
+          "fixedComplexity": "46.76",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "22",
+          "buggyComplexity": "47.08",
+          "fixedComplexity": "47.08",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "23",
+          "buggyComplexity": "47.08",
+          "fixedComplexity": "47.08",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "24",
+          "buggyComplexity": "47.08",
+          "fixedComplexity": "47.08",
+          "modifiedFilesComplexity": "16.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "25",
+          "buggyComplexity": "47.36",
+          "fixedComplexity": "47.36",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "26",
+          "buggyComplexity": "47.31",
+          "fixedComplexity": "47.31",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "27",
+          "buggyComplexity": "46.85",
+          "fixedComplexity": "46.85",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "28",
+          "buggyComplexity": "47.26",
+          "fixedComplexity": "47.26",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "29",
+          "buggyComplexity": "47.26",
+          "fixedComplexity": "47.26",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "2",
+          "buggyComplexity": "46.83",
+          "fixedComplexity": "46.83",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "30",
+          "buggyComplexity": "47.26",
+          "fixedComplexity": "47.26",
+          "modifiedFilesComplexity": "51.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "31",
+          "buggyComplexity": "47.26",
+          "fixedComplexity": "47.26",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "32",
+          "buggyComplexity": "47.81",
+          "fixedComplexity": "47.81",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "33",
+          "buggyComplexity": "47.81",
+          "fixedComplexity": "47.81",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "34",
+          "buggyComplexity": "47.73",
+          "fixedComplexity": "47.73",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "35",
+          "buggyComplexity": "47.73",
+          "fixedComplexity": "47.73",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "36",
+          "buggyComplexity": "47.73",
+          "fixedComplexity": "47.73",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "37",
+          "buggyComplexity": "47.73",
+          "fixedComplexity": "47.73",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "38",
+          "buggyComplexity": "47.87",
+          "fixedComplexity": "47.87",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "3",
+          "buggyComplexity": "46.84",
+          "fixedComplexity": "46.84",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "4",
+          "buggyComplexity": "46.79",
+          "fixedComplexity": "46.80",
+          "modifiedFilesComplexity": "151.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "5",
+          "buggyComplexity": "46.78",
+          "fixedComplexity": "46.78",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "6",
+          "buggyComplexity": "46.78",
+          "fixedComplexity": "46.78",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "7",
+          "buggyComplexity": "46.77",
+          "fixedComplexity": "46.77",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "8",
+          "buggyComplexity": "46.77",
+          "fixedComplexity": "46.77",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "9",
+          "buggyComplexity": "46.76",
+          "fixedComplexity": "46.76",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        }
+      ]
+    },
+    "Time": {
+      "complexityIncreased": 5,
+      "complexityDecreased": 3,
+      "complexityUnchanged": 18,
+      "totalDefects": 26,
+      "defects": [
+        {
+          "id": "10",
+          "buggyComplexity": "53.54",
+          "fixedComplexity": "53.54",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "11",
+          "buggyComplexity": "53.53",
+          "fixedComplexity": "53.53",
+          "modifiedFilesComplexity": "24.63",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "12",
+          "buggyComplexity": "53.79",
+          "fixedComplexity": "53.82",
+          "modifiedFilesComplexity": "121.67",
+          "complexityChange": "increased",
+          "percentChange": "0.06"
+        },
+        {
+          "id": "13",
+          "buggyComplexity": "53.61",
+          "fixedComplexity": "53.26",
+          "modifiedFilesComplexity": "37.90",
+          "complexityChange": "decreased",
+          "percentChange": "-0.64"
+        },
+        {
+          "id": "14",
+          "buggyComplexity": "53.61",
+          "fixedComplexity": "53.61",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "15",
+          "buggyComplexity": "53.50",
+          "fixedComplexity": "53.50",
+          "modifiedFilesComplexity": "11.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "16",
+          "buggyComplexity": "53.50",
+          "fixedComplexity": "53.50",
+          "modifiedFilesComplexity": "96.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "17",
+          "buggyComplexity": "53.52",
+          "fixedComplexity": "53.55",
+          "modifiedFilesComplexity": "58.33",
+          "complexityChange": "increased",
+          "percentChange": "0.07"
+        },
+        {
+          "id": "18",
+          "buggyComplexity": "53.86",
+          "fixedComplexity": "53.47",
+          "modifiedFilesComplexity": "10.50",
+          "complexityChange": "decreased",
+          "percentChange": "-0.71"
+        },
+        {
+          "id": "19",
+          "buggyComplexity": "53.86",
+          "fixedComplexity": "53.86",
+          "modifiedFilesComplexity": "57.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "1",
+          "buggyComplexity": "53.98",
+          "fixedComplexity": "54.06",
+          "modifiedFilesComplexity": "36.50",
+          "complexityChange": "increased",
+          "percentChange": "0.15"
+        },
+        {
+          "id": "20",
+          "buggyComplexity": "53.83",
+          "fixedComplexity": "53.83",
+          "modifiedFilesComplexity": "37.55",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "21",
+          "buggyComplexity": "0.00",
+          "fixedComplexity": "0.00",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "NaN"
+        },
+        {
+          "id": "22",
+          "buggyComplexity": "54.13",
+          "fixedComplexity": "54.13",
+          "modifiedFilesComplexity": "14.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "23",
+          "buggyComplexity": "54.12",
+          "fixedComplexity": "54.12",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "24",
+          "buggyComplexity": "54.08",
+          "fixedComplexity": "54.09",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "25",
+          "buggyComplexity": "54.02",
+          "fixedComplexity": "54.04",
+          "modifiedFilesComplexity": "N/A",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "26",
+          "buggyComplexity": "53.98",
+          "fixedComplexity": "53.98",
+          "modifiedFilesComplexity": "0.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.02"
+        },
+        {
+          "id": "2",
+          "buggyComplexity": "53.99",
+          "fixedComplexity": "53.98",
+          "modifiedFilesComplexity": "34.00",
+          "complexityChange": "unchanged",
+          "percentChange": "-0.03"
+        },
+        {
+          "id": "3",
+          "buggyComplexity": "53.88",
+          "fixedComplexity": "53.97",
+          "modifiedFilesComplexity": "128.00",
+          "complexityChange": "increased",
+          "percentChange": "0.15"
+        },
+        {
+          "id": "4",
+          "buggyComplexity": "53.63",
+          "fixedComplexity": "53.63",
+          "modifiedFilesComplexity": "46.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "5",
+          "buggyComplexity": "53.59",
+          "fixedComplexity": "53.61",
+          "modifiedFilesComplexity": "69.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.03"
+        },
+        {
+          "id": "6",
+          "buggyComplexity": "53.52",
+          "fixedComplexity": "53.52",
+          "modifiedFilesComplexity": "10.50",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "7",
+          "buggyComplexity": "53.51",
+          "fixedComplexity": "53.51",
+          "modifiedFilesComplexity": "96.00",
+          "complexityChange": "unchanged",
+          "percentChange": "0.00"
+        },
+        {
+          "id": "8",
+          "buggyComplexity": "53.38",
+          "fixedComplexity": "53.43",
+          "modifiedFilesComplexity": "49.75",
+          "complexityChange": "increased",
+          "percentChange": "0.09"
+        },
+        {
+          "id": "9",
+          "buggyComplexity": "53.68",
+          "fixedComplexity": "53.38",
+          "modifiedFilesComplexity": "48.25",
+          "complexityChange": "decreased",
+          "percentChange": "-0.56"
+        }
+      ]
+    }
+  }
+}

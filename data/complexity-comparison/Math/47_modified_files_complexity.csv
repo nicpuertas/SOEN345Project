@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.complex","data/temp/Math_47f/src/main/java/org/apache/commons/math/complex/Complex.java","3","56","The class 'Complex' has a total cyclomatic complexity of 108 (highest 8).","Design","CyclomaticComplexity"

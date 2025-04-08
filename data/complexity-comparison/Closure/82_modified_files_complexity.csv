@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_82f/src/com/google/javascript/rhino/jstype/JSType.java","3","67","The class 'JSType' has a total cyclomatic complexity of 160 (highest 18).","Design","CyclomaticComplexity"
+"2","com.google.javascript.rhino.jstype","data/temp/Closure_82f/src/com/google/javascript/rhino/jstype/JSType.java","3","518","The method 'testForEqualityHelper(JSType, JSType)' has a cyclomatic complexity of 18.","Design","CyclomaticComplexity"
+"3","com.google.javascript.rhino.jstype","data/temp/Closure_82f/src/com/google/javascript/rhino/jstype/JSType.java","3","631","The method 'getGreatestSubtype(JSType, JSType)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

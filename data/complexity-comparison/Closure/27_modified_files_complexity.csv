@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino","data/temp/Closure_27f/src/com/google/javascript/rhino/IR.java","3","49","The class 'IR' has a total cyclomatic complexity of 161 (highest 62).","Design","CyclomaticComplexity"
+"2","com.google.javascript.rhino","data/temp/Closure_27f/src/com/google/javascript/rhino/IR.java","3","476","The method 'mayBeStatement(Node)' has a cyclomatic complexity of 20.","Design","CyclomaticComplexity"
+"3","com.google.javascript.rhino","data/temp/Closure_27f/src/com/google/javascript/rhino/IR.java","3","512","The method 'mayBeExpression(Node)' has a cyclomatic complexity of 62.","Design","CyclomaticComplexity"

@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_85f/src/com/google/javascript/jscomp/UnreachableCodeElimination.java","3","131","The method 'tryRemoveUnconditionalBranching(Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_85f/src/com/google/javascript/jscomp/UnreachableCodeElimination.java","3","193","The method 'removeDeadExprStatementSafely(Node)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

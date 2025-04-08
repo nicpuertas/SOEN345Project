@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_98f/src/com/google/javascript/jscomp/ReferenceCollectingCallback.java","3","160","The method 'isBlockBoundary(Node, Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time.base","data/temp/Time_10f/src/main/java/org/joda/time/base/BaseSingleFieldPeriod.java","3","89","The method 'between(ReadablePartial, ReadablePartial, ReadablePeriod)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

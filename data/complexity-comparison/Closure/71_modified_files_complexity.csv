@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_71f/src/com/google/javascript/jscomp/CheckAccessControls.java","3","46","The class 'CheckAccessControls' has a total cyclomatic complexity of 123 (highest 22).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_71f/src/com/google/javascript/jscomp/CheckAccessControls.java","3","350","The method 'checkConstantProperty(NodeTraversal, Node)' has a cyclomatic complexity of 17.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_71f/src/com/google/javascript/jscomp/CheckAccessControls.java","3","407","The method 'checkPropertyVisibility(NodeTraversal, Node, Node)' has a cyclomatic complexity of 22.","Design","CyclomaticComplexity"

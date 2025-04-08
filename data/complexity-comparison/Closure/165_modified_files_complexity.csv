@@ -1,0 +1,7 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_165f/src/com/google/javascript/rhino/jstype/JSTypeRegistry.java","3","76","The class 'JSTypeRegistry' has a total cyclomatic complexity of 168 (highest 33).","Design","CyclomaticComplexity"
+"2","com.google.javascript.rhino.jstype","data/temp/Closure_165f/src/com/google/javascript/rhino/jstype/JSTypeRegistry.java","3","1460","The method 'createFromTypeNodesInternal(Node, String, StaticScope<JSType>)' has a cyclomatic complexity of 33.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_165f/src/com/google/javascript/rhino/jstype/RecordType.java","3","162","The method 'getGreatestSubtypeHelper(JSType)' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"

@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.analysis.solvers","data/temp/Math_48f/src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java","3","129","The method 'doSolve()' has a cyclomatic complexity of 34.","Design","CyclomaticComplexity"

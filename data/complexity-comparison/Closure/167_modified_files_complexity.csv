@@ -1,0 +1,7 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp.type","data/temp/Closure_167f/src/com/google/javascript/jscomp/type/SemanticReverseAbstractInterpreter.java","3","41","The class 'SemanticReverseAbstractInterpreter' has a total cyclomatic complexity of 84 (highest 42).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp.type","data/temp/Closure_167f/src/com/google/javascript/jscomp/type/SemanticReverseAbstractInterpreter.java","3","125","The method 'getPreciserScopeKnowingConditionOutcome(Node, FlowScope, boolean)' has a cyclomatic complexity of 42.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_167f/src/com/google/javascript/rhino/jstype/JSType.java","3","67","The class 'JSType' has a total cyclomatic complexity of 199 (highest 19).","Design","CyclomaticComplexity"
+"2","com.google.javascript.rhino.jstype","data/temp/Closure_167f/src/com/google/javascript/rhino/jstype/JSType.java","3","658","The method 'testForEqualityHelper(JSType, JSType)' has a cyclomatic complexity of 18.","Design","CyclomaticComplexity"
+"3","com.google.javascript.rhino.jstype","data/temp/Closure_167f/src/com/google/javascript/rhino/jstype/JSType.java","3","784","The method 'getGreatestSubtype(JSType, JSType)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"

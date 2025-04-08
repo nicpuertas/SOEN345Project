@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_140f/src/com/google/javascript/jscomp/Compiler.java","3","62","The class 'Compiler' has a total cyclomatic complexity of 207 (highest 13).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_140f/src/com/google/javascript/jscomp/Compiler.java","3","541","The method 'compileInternal()' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_140f/src/com/google/javascript/jscomp/Compiler.java","3","976","The method 'parseInputs()' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"

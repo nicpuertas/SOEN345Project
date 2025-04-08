@@ -1,0 +1,7 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_173f/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java","3","35","The class 'PeepholeSubstituteAlternateSyntax' has a total cyclomatic complexity of 135 (highest 22).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_173f/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java","3","67","The method 'optimizeSubtree(Node)' has a cyclomatic complexity of 18.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_173f/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java","3","313","The method 'tryFoldLiteralConstructor(Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_173f/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java","3","401","The method 'tryFoldRegularExpressionConstructor(Node)' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"
+"5","com.google.javascript.jscomp","data/temp/Closure_173f/src/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntax.java","3","587","The method 'makeForwardSlashBracketSafe(Node)' has a cyclomatic complexity of 22.","Design","CyclomaticComplexity"

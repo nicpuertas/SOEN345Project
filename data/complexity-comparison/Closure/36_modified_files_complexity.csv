@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_36f/src/com/google/javascript/jscomp/InlineVariables.java","3","142","The class 'InliningBehavior' has a total cyclomatic complexity of 106 (highest 19).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_36f/src/com/google/javascript/jscomp/InlineVariables.java","3","254","The method 'inlineNonConstants(Var, ReferenceCollection, boolean)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_36f/src/com/google/javascript/jscomp/InlineVariables.java","3","519","The method 'canInline(Reference, Reference, Reference)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_36f/src/com/google/javascript/jscomp/InlineVariables.java","3","675","The method 'isImmutableAndWellDefinedVariable(Var, ReferenceCollection)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

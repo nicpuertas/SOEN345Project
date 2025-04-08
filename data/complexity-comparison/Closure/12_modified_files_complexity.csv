@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_12f/src/com/google/javascript/jscomp/MaybeReachingVariableUse.java","3","169","The method 'computeMayUse(Node, Node, ReachingUses, boolean)' has a cyclomatic complexity of 23.","Design","CyclomaticComplexity"

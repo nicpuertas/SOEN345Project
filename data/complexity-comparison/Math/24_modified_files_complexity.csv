@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.optimization.univariate","data/temp/Math_24f/src/main/java/org/apache/commons/math3/optimization/univariate/BrentOptimizer.java","3","109","The method 'doOptimize()' has a cyclomatic complexity of 30.","Design","CyclomaticComplexity"

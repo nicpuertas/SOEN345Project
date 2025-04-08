@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.analysis.solvers","data/temp/Math_40f/src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java","3","143","The method 'doSolve()' has a cyclomatic complexity of 33.","Design","CyclomaticComplexity"

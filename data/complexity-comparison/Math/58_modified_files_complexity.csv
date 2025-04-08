@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.optimization.fitting","data/temp/Math_58f/src/main/java/org/apache/commons/math/optimization/fitting/GaussianFitter.java","3","255","The method 'getInterpolationPointsForY(WeightedObservedPoint[], int, int, double)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"2","org.apache.commons.math.optimization.fitting","data/temp/Math_58f/src/main/java/org/apache/commons/math/optimization/fitting/GaussianFitter.java","3","303","The method 'compare(WeightedObservedPoint, WeightedObservedPoint)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

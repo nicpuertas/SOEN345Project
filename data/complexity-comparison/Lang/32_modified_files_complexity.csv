@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang3.builder","data/temp/Lang_32f/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java","3","96","The class 'HashCodeBuilder' has a total cyclomatic complexity of 89 (highest 11).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang3.builder","data/temp/Lang_32f/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java","3","167","The method 'reflectionAppend(Object, Class<?>, HashCodeBuilder, boolean, String[])' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang3.builder","data/temp/Lang_32f/src/main/java/org/apache/commons/lang3/builder/HashCodeBuilder.java","3","863","The method 'append(Object)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

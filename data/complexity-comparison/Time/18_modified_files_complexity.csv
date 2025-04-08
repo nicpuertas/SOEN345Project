@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time.chrono","data/temp/Time_18f/src/main/java/org/joda/time/chrono/GJChronology.java","3","350","The method 'getDateTimeMillis(int, int, int, int, int, int, int)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"2","org.joda.time.chrono","data/temp/Time_18f/src/main/java/org/joda/time/chrono/GJChronology.java","3","709","The method 'set(long, int)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

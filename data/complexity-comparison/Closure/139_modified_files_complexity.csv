@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_139f/src/com/google/javascript/jscomp/Normalize.java","3","185","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

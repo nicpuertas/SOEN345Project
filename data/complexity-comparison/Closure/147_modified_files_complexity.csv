@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_147f/src/com/google/javascript/jscomp/CheckGlobalThis.java","3","84","The method 'shouldTraverse(NodeTraversal, Node, Node)' has a cyclomatic complexity of 21.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_147f/src/com/google/javascript/jscomp/RuntimeTypeCheck.java","3","336","The method 'createCheckerNode(JSType)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

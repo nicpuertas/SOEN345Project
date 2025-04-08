@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time","data/temp/Time_5f/src/main/java/org/joda/time/Period.java","3","57","The class 'Period' has a total cyclomatic complexity of 127 (highest 12).","Design","CyclomaticComplexity"
+"2","org.joda.time","data/temp/Time_5f/src/main/java/org/joda/time/Period.java","3","256","The method 'fieldDifference(ReadablePartial, ReadablePartial)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

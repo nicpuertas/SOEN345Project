@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time.field","data/temp/Time_15f/src/main/java/org/joda/time/field/FieldUtils.java","3","162","The method 'safeMultiply(long, long)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

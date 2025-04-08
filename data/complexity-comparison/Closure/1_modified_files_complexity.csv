@@ -1,0 +1,6 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_1f/src/com/google/javascript/jscomp/RemoveUnusedVars.java","3","69","The class 'RemoveUnusedVars' has a total cyclomatic complexity of 89 (highest 29).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_1f/src/com/google/javascript/jscomp/RemoveUnusedVars.java","3","192","The method 'traverseNode(Node, Node, Scope)' has a cyclomatic complexity of 29.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_1f/src/com/google/javascript/jscomp/RemoveUnusedVars.java","3","541","The method 'tryRemoveArgFromCallSites(Node, int, boolean)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_1f/src/com/google/javascript/jscomp/RemoveUnusedVars.java","3","724","The method 'interpretAssigns()' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"5","com.google.javascript.jscomp","data/temp/Closure_1f/src/com/google/javascript/jscomp/RemoveUnusedVars.java","3","804","The method 'removeUnreferencedVars()' has a cyclomatic complexity of 17.","Design","CyclomaticComplexity"

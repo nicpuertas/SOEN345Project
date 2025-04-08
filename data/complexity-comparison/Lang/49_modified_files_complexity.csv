@@ -1,0 +1,7 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang.math","data/temp/Lang_49f/src/java/org/apache/commons/lang/math/Fraction.java","3","36","The class 'Fraction' has a total cyclomatic complexity of 151 (highest 14).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang.math","data/temp/Lang_49f/src/java/org/apache/commons/lang/math/Fraction.java","3","172","The method 'getFraction(int, int, int)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang.math","data/temp/Lang_49f/src/java/org/apache/commons/lang/math/Fraction.java","3","209","The method 'getReducedFraction(int, int)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"4","org.apache.commons.lang.math","data/temp/Lang_49f/src/java/org/apache/commons/lang/math/Fraction.java","3","249","The method 'getFraction(double)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"5","org.apache.commons.lang.math","data/temp/Lang_49f/src/java/org/apache/commons/lang/math/Fraction.java","3","572","The method 'greatestCommonDivisor(int, int)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"
+"6","org.apache.commons.lang.math","data/temp/Lang_49f/src/java/org/apache/commons/lang/math/Fraction.java","3","729","The method 'addSub(Fraction, boolean)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

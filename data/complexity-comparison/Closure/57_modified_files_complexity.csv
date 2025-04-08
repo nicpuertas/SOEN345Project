@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_57f/src/com/google/javascript/jscomp/ClosureCodingConvention.java","3","68","The method 'getClassesDefinedByCall(Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_57f/src/com/google/javascript/jscomp/ClosureCodingConvention.java","3","354","The method 'describeFunctionBind(Node)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

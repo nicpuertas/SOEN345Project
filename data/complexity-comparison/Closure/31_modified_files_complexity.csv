@@ -1,0 +1,8 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_31f/src/com/google/javascript/jscomp/Compiler.java","3","77","The class 'Compiler' has a total cyclomatic complexity of 324 (highest 30).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_31f/src/com/google/javascript/jscomp/Compiler.java","3","242","The method 'initOptions(CompilerOptions)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_31f/src/com/google/javascript/jscomp/Compiler.java","3","660","The method 'compileInternal()' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_31f/src/com/google/javascript/jscomp/Compiler.java","3","755","The method 'check()' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"5","com.google.javascript.jscomp","data/temp/Closure_31f/src/com/google/javascript/jscomp/Compiler.java","3","1236","The method 'parseInputs()' has a cyclomatic complexity of 30.","Design","CyclomaticComplexity"
+"6","com.google.javascript.jscomp","data/temp/Closure_31f/src/com/google/javascript/jscomp/Compiler.java","3","1393","The method 'processAMDAndCommonJSModules()' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"
+"7","com.google.javascript.jscomp","data/temp/Closure_31f/src/com/google/javascript/jscomp/Compiler.java","3","1632","The method 'call()' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

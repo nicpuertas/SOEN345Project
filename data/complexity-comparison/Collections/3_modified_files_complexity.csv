@@ -1,0 +1,6 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.collections","data/temp/Collections_3f/src/java/org/apache/commons/collections/CollectionUtils.java","3","57","The class 'CollectionUtils' has a total cyclomatic complexity of 177 (highest 19).","Design","CyclomaticComplexity"
+"2","org.apache.commons.collections","data/temp/Collections_3f/src/java/org/apache/commons/collections/CollectionUtils.java","3","740","The method 'index(Object, Object)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"3","org.apache.commons.collections","data/temp/Collections_3f/src/java/org/apache/commons/collections/CollectionUtils.java","3","828","The method 'get(Object, int)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"
+"4","org.apache.commons.collections","data/temp/Collections_3f/src/java/org/apache/commons/collections/CollectionUtils.java","3","893","The method 'size(Object)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"
+"5","org.apache.commons.collections","data/temp/Collections_3f/src/java/org/apache/commons/collections/CollectionUtils.java","3","945","The method 'sizeIsEmpty(Object)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

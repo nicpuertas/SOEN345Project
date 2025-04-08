@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_5f/src/com/google/javascript/jscomp/InlineObjectLiterals.java","3","155","The method 'isInlinableObject(List<Reference>)' has a cyclomatic complexity of 17.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_5f/src/com/google/javascript/jscomp/InlineObjectLiterals.java","3","399","The method 'splitObject(Var, Reference, Reference, ReferenceCollection)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

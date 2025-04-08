@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_91f/src/com/google/javascript/jscomp/CheckGlobalThis.java","3","82","The method 'shouldTraverse(NodeTraversal, Node, Node)' has a cyclomatic complexity of 26.","Design","CyclomaticComplexity"

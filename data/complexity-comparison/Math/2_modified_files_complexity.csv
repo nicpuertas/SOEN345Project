@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.distribution","data/temp/Math_2f/src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java","3","79","The constructor 'HypergeometricDistribution(RandomGenerator, int, int, int)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

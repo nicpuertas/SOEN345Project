@@ -1,0 +1,7 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.util","data/temp/Math_3f/src/main/java/org/apache/commons/math3/util/MathArrays.java","3","45","The class 'MathArrays' has a total cyclomatic complexity of 169 (highest 14).","Design","CyclomaticComplexity"
+"2","org.apache.commons.math3.util","data/temp/Math_3f/src/main/java/org/apache/commons/math3/util/MathArrays.java","3","308","The method 'isMonotonic(T[], OrderDirection, boolean)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"3","org.apache.commons.math3.util","data/temp/Math_3f/src/main/java/org/apache/commons/math3/util/MathArrays.java","3","373","The method 'checkOrder(double[], OrderDirection, boolean, boolean)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"
+"4","org.apache.commons.math3.util","data/temp/Math_3f/src/main/java/org/apache/commons/math3/util/MathArrays.java","3","582","The method 'safeNorm(double[])' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"5","org.apache.commons.math3.util","data/temp/Math_3f/src/main/java/org/apache/commons/math3/util/MathArrays.java","3","675","The method 'sortInPlace(double[], OrderDirection, double[][])' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"6","org.apache.commons.math3.util","data/temp/Math_3f/src/main/java/org/apache/commons/math3/util/MathArrays.java","3","1294","The method 'normalizeArray(double[], double)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"

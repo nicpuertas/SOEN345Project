@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.mockito.exceptions","data/temp/Mockito_4f/src/org/mockito/exceptions/Reporter.java","3","48","The class 'Reporter' has a total cyclomatic complexity of 151 (highest 5).","Design","CyclomaticComplexity"

@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.special","data/temp/Math_104f/src/java/org/apache/commons/math/special/Gamma.java","3","150","The method 'regularizedGammaP(double, double, double, int)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

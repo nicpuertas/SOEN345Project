@@ -1,2 +1,6 @@
 data/projects/
 defects4j/
+node_modules/
+package-lock.json
+.pmd-cache.bin
+data/temp/

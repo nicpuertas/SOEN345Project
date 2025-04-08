@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_77f/src/com/google/javascript/jscomp/CodeGenerator.java","3","35","The class 'CodeGenerator' has a total cyclomatic complexity of 234 (highest 132).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_77f/src/com/google/javascript/jscomp/CodeGenerator.java","3","82","The method 'add(Node, Context)' has a cyclomatic complexity of 132.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_77f/src/com/google/javascript/jscomp/CodeGenerator.java","3","737","The method 'addNonEmptyStatement(Node, Context, boolean)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_77f/src/com/google/javascript/jscomp/CodeGenerator.java","3","956","The method 'strEscape(String, char, String, String, String, CharsetEncoder)' has a cyclomatic complexity of 22.","Design","CyclomaticComplexity"

@@ -1,0 +1,6 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_116f/src/com/google/javascript/jscomp/FunctionInjector.java","3","38","The class 'FunctionInjector' has a total cyclomatic complexity of 115 (highest 18).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_116f/src/com/google/javascript/jscomp/FunctionInjector.java","3","394","The method 'classifyCallSite(Node)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_116f/src/com/google/javascript/jscomp/FunctionInjector.java","3","455","The method 'inlineFunction(Node, Node, String)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_116f/src/com/google/javascript/jscomp/FunctionInjector.java","3","689","The method 'canInlineReferenceDirectly(Node, Node)' has a cyclomatic complexity of 18.","Design","CyclomaticComplexity"
+"5","com.google.javascript.jscomp","data/temp/Closure_116f/src/com/google/javascript/jscomp/FunctionInjector.java","3","767","The method 'inliningLowersCost(JSModule, Node, Collection<? extends Reference>, Set<String>, boolean, boolean)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

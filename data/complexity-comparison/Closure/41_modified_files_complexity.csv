@@ -1,0 +1,6 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_41f/src/com/google/javascript/jscomp/FunctionTypeBuilder.java","3","65","The class 'FunctionTypeBuilder' has a total cyclomatic complexity of 119 (highest 20).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_41f/src/com/google/javascript/jscomp/FunctionTypeBuilder.java","3","322","The method 'inferInheritance(JSDocInfo)' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_41f/src/com/google/javascript/jscomp/FunctionTypeBuilder.java","3","424","The method 'inferParameterTypes(Node, JSDocInfo)' has a cyclomatic complexity of 20.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_41f/src/com/google/javascript/jscomp/FunctionTypeBuilder.java","3","555","The method 'addParameter(FunctionParamBuilder, JSType, boolean, boolean, boolean)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"5","com.google.javascript.jscomp","data/temp/Closure_41f/src/com/google/javascript/jscomp/FunctionTypeBuilder.java","3","590","The method 'buildAndRegister()' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"

@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_124f/src/com/google/javascript/jscomp/ExploitAssigns.java","3","108","The method 'collapseAssignEqualTo(Node, Node, Node)' has a cyclomatic complexity of 22.","Design","CyclomaticComplexity"

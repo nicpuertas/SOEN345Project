@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.fraction","data/temp/Math_36f/src/main/java/org/apache/commons/math/fraction/BigFraction.java","3","39","The class 'BigFraction' has a total cyclomatic complexity of 114 (highest 14).","Design","CyclomaticComplexity"
+"2","org.apache.commons.math.fraction","data/temp/Math_36f/src/main/java/org/apache/commons/math/fraction/BigFraction.java","3","171","The constructor 'BigFraction(double)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"3","org.apache.commons.math.fraction","data/temp/Math_36f/src/main/java/org/apache/commons/math/fraction/BigFraction.java","3","268","The constructor 'BigFraction(double, double, int, int)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"

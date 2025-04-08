@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang.time","data/temp/Lang_53f/src/java/org/apache/commons/lang/time/DateUtils.java","3","40","The class 'DateUtils' has a total cyclomatic complexity of 126 (highest 31).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang.time","data/temp/Lang_53f/src/java/org/apache/commons/lang/time/DateUtils.java","3","620","The method 'modify(Calendar, int, boolean)' has a cyclomatic complexity of 31.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang.time","data/temp/Lang_53f/src/java/org/apache/commons/lang/time/DateUtils.java","3","804","The method 'iterator(Calendar, int)' has a cyclomatic complexity of 21.","Design","CyclomaticComplexity"

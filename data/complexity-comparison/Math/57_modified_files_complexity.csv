@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.stat.clustering","data/temp/Math_57f/src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java","3","92","The method 'cluster(Collection<T>, int, int)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

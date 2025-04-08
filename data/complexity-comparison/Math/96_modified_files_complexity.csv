@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.complex","data/temp/Math_96f/src/java/org/apache/commons/math/complex/Complex.java","3","193","The method 'divide(Complex)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

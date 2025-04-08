@@ -1,0 +1,8 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.util","data/temp/Math_79f/src/main/java/org/apache/commons/math/util/MathUtils.java","3","30","The class 'MathUtils' has a total cyclomatic complexity of 257 (highest 19).","Design","CyclomaticComplexity"
+"2","org.apache.commons.math.util","data/temp/Math_79f/src/main/java/org/apache/commons/math/util/MathUtils.java","3","188","The method 'binomialCoefficient(int, int)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"3","org.apache.commons.math.util","data/temp/Math_79f/src/main/java/org/apache/commons/math/util/MathUtils.java","3","305","The method 'binomialCoefficientLog(int, int)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"4","org.apache.commons.math.util","data/temp/Math_79f/src/main/java/org/apache/commons/math/util/MathUtils.java","3","614","The method 'gcd(int, int)' has a cyclomatic complexity of 17.","Design","CyclomaticComplexity"
+"5","org.apache.commons.math.util","data/temp/Math_79f/src/main/java/org/apache/commons/math/util/MathUtils.java","3","848","The method 'mulAndCheck(long, long)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"
+"6","org.apache.commons.math.util","data/temp/Math_79f/src/main/java/org/apache/commons/math/util/MathUtils.java","3","1020","The method 'normalizeArray(double[], double)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"7","org.apache.commons.math.util","data/temp/Math_79f/src/main/java/org/apache/commons/math/util/MathUtils.java","3","1139","The method 'roundUnscaled(double, double, int)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"

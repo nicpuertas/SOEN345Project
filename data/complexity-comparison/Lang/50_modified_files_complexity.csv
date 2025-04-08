@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang.time","data/temp/Lang_50f/src/java/org/apache/commons/lang/time/FastDateFormat.java","3","71","The class 'FastDateFormat' has a total cyclomatic complexity of 132 (highest 32).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang.time","data/temp/Lang_50f/src/java/org/apache/commons/lang/time/FastDateFormat.java","3","576","The method 'parsePattern()' has a cyclomatic complexity of 32.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang.time","data/temp/Lang_50f/src/java/org/apache/commons/lang/time/FastDateFormat.java","3","706","The method 'parseToken(String, int[])' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"
+"4","org.apache.commons.lang.time","data/temp/Lang_50f/src/java/org/apache/commons/lang/time/FastDateFormat.java","3","974","The method 'equals(Object)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

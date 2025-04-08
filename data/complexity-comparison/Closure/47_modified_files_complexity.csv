@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.debugging.sourcemap","data/temp/Closure_47f/src/com/google/debugging/sourcemap/SourceMapConsumerV3.java","3","43","The class 'SourceMapConsumerV3' has a total cyclomatic complexity of 80 (highest 26).","Design","CyclomaticComplexity"
+"2","com.google.debugging.sourcemap","data/temp/Closure_47f/src/com/google/debugging/sourcemap/SourceMapConsumerV3.java","3","136","The method 'parseMetaMap(JSONObject, SourceMapSupplier)' has a cyclomatic complexity of 26.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"

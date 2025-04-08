@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_6f/src/com/google/javascript/jscomp/TypeValidator.java","3","58","The class 'TypeValidator' has a total cyclomatic complexity of 129 (highest 17).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_6f/src/com/google/javascript/jscomp/TypeValidator.java","3","518","The method 'expectUndeclaredVariable(String, CompilerInput, Node, Node, Var, String, JSType)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_6f/src/com/google/javascript/jscomp/TypeValidator.java","3","710","The method 'getReadableJSTypeName(Node, boolean)' has a cyclomatic complexity of 17.","Design","CyclomaticComplexity"

@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.linear","data/temp/Math_86f/src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java","3","93","The constructor 'CholeskyDecompositionImpl(RealMatrix, double, double)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"
+"2","org.apache.commons.math.linear","data/temp/Math_86f/src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java","3","297","The method 'solve(RealMatrix)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

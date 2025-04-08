@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time.format","data/temp/Time_7f/src/main/java/org/joda/time/format/DateTimeFormatter.java","3","82","The class 'DateTimeFormatter' has a total cyclomatic complexity of 96 (highest 8).","Design","CyclomaticComplexity"

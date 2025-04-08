@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang","data/temp/Lang_46f/src/java/org/apache/commons/lang/StringEscapeUtils.java","3","41","The class 'StringEscapeUtils' has a total cyclomatic complexity of 101 (highest 21).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang","data/temp/Lang_46f/src/java/org/apache/commons/lang/StringEscapeUtils.java","3","178","The method 'escapeJavaStyleString(Writer, String, boolean, boolean)' has a cyclomatic complexity of 21.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang","data/temp/Lang_46f/src/java/org/apache/commons/lang/StringEscapeUtils.java","3","308","The method 'unescapeJava(Writer, String)' has a cyclomatic complexity of 21.","Design","CyclomaticComplexity"

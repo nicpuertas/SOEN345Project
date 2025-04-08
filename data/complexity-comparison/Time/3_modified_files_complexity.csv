@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time","data/temp/Time_3f/src/main/java/org/joda/time/MutableDateTime.java","3","72","The class 'MutableDateTime' has a total cyclomatic complexity of 128 (highest 7).","Design","CyclomaticComplexity"

@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_16f/src/com/google/javascript/jscomp/ScopedAliases.java","3","107","The method 'hotSwapScript(Node, Node)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_16f/src/com/google/javascript/jscomp/ScopedAliases.java","3","396","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 17.","Design","CyclomaticComplexity"

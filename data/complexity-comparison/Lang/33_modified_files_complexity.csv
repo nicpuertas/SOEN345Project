@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang3","data/temp/Lang_33f/src/main/java/org/apache/commons/lang3/ClassUtils.java","3","48","The class 'ClassUtils' has a total cyclomatic complexity of 129 (highest 21).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang3","data/temp/Lang_33f/src/main/java/org/apache/commons/lang3/ClassUtils.java","3","183","The method 'getShortClassName(String)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang3","data/temp/Lang_33f/src/main/java/org/apache/commons/lang3/ClassUtils.java","3","554","The method 'isAssignable(Class<?>, Class<?>, boolean)' has a cyclomatic complexity of 21.","Design","CyclomaticComplexity"

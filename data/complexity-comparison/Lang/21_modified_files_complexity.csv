@@ -1,0 +1,6 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang3.time","data/temp/Lang_21f/src/main/java/org/apache/commons/lang3/time/DateUtils.java","3","55","The class 'DateUtils' has a total cyclomatic complexity of 194 (highest 34).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang3.time","data/temp/Lang_21f/src/main/java/org/apache/commons/lang3/time/DateUtils.java","3","326","The method 'parseDateWithLeniency(String, String[], boolean)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang3.time","data/temp/Lang_21f/src/main/java/org/apache/commons/lang3/time/DateUtils.java","3","941","The method 'modify(Calendar, int, int)' has a cyclomatic complexity of 34.","Design","CyclomaticComplexity"
+"4","org.apache.commons.lang3.time","data/temp/Lang_21f/src/main/java/org/apache/commons/lang3/time/DateUtils.java","3","1137","The method 'iterator(Calendar, int)' has a cyclomatic complexity of 21.","Design","CyclomaticComplexity"
+"5","org.apache.commons.lang3.time","data/temp/Lang_21f/src/main/java/org/apache/commons/lang3/time/DateUtils.java","3","1670","The method 'getFragment(Calendar, int, int)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"

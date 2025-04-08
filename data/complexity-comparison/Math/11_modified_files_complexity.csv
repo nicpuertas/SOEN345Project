@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.distribution","data/temp/Math_11f/src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java","3","97","The constructor 'MultivariateNormalDistribution(RandomGenerator, double[], double[][])' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

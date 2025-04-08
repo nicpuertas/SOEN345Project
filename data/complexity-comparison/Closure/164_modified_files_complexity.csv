@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_164f/src/com/google/javascript/rhino/jstype/ArrowType.java","3","80","The method 'isSubtype(JSType)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"

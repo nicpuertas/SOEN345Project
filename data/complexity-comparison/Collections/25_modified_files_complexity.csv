@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.collections4","data/temp/Collections_25f/src/main/java/org/apache/commons/collections4/IteratorUtils.java","3","82","The class 'IteratorUtils' has a total cyclomatic complexity of 166 (highest 17).","Design","CyclomaticComplexity"
+"2","org.apache.commons.collections4","data/temp/Collections_25f/src/main/java/org/apache/commons/collections4/IteratorUtils.java","3","1179","The method 'getIterator(Object)' has a cyclomatic complexity of 17.","Design","CyclomaticComplexity"
+"3","org.apache.commons.collections4","data/temp/Collections_25f/src/main/java/org/apache/commons/collections4/IteratorUtils.java","3","1473","The method 'toString(Iterator<E>, Transformer<? super E, String>, String, String, String)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

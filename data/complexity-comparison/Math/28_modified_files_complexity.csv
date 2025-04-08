@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.optimization.linear","data/temp/Math_28f/src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java","3","90","The method 'getPivotRow(SimplexTableau, int)' has a cyclomatic complexity of 18.","Design","CyclomaticComplexity"

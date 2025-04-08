@@ -1,0 +1,8 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_14f/src/com/google/javascript/jscomp/ControlFlowAnalysis.java","3","41","The class 'ControlFlowAnalysis' has a total cyclomatic complexity of 207 (highest 26).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_14f/src/com/google/javascript/jscomp/ControlFlowAnalysis.java","3","218","The method 'shouldTraverse(NodeTraversal, Node, Node)' has a cyclomatic complexity of 24.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_14f/src/com/google/javascript/jscomp/ControlFlowAnalysis.java","3","295","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 20.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_14f/src/com/google/javascript/jscomp/ControlFlowAnalysis.java","3","484","The method 'handleStmtList(Node)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"
+"5","com.google.javascript.jscomp","data/temp/Closure_14f/src/com/google/javascript/jscomp/ControlFlowAnalysis.java","3","551","The method 'handleBreak(Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"6","com.google.javascript.jscomp","data/temp/Closure_14f/src/com/google/javascript/jscomp/ControlFlowAnalysis.java","3","692","The method 'computeFollowNode(Node, Node, ControlFlowAnalysis)' has a cyclomatic complexity of 26.","Design","CyclomaticComplexity"
+"7","com.google.javascript.jscomp","data/temp/Closure_14f/src/com/google/javascript/jscomp/ControlFlowAnalysis.java","3","910","The method 'mayThrowException(Node)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"

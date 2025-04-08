@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang3.math","data/temp/Lang_3f/src/main/java/org/apache/commons/lang3/math/NumberUtils.java","3","31","The class 'NumberUtils' has a total cyclomatic complexity of 234 (highest 60).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang3.math","data/temp/Lang_3f/src/main/java/org/apache/commons/lang3/math/NumberUtils.java","3","450","The method 'createNumber(String)' has a cyclomatic complexity of 60.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang3.math","data/temp/Lang_3f/src/main/java/org/apache/commons/lang3/math/NumberUtils.java","3","1325","The method 'isNumber(String)' has a cyclomatic complexity of 45.","Design","CyclomaticComplexity"

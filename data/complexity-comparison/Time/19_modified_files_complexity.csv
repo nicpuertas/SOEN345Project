@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time","data/temp/Time_19f/src/main/java/org/joda/time/DateTimeZone.java","3","89","The class 'DateTimeZone' has a total cyclomatic complexity of 148 (highest 12).","Design","CyclomaticComplexity"
+"2","org.joda.time","data/temp/Time_19f/src/main/java/org/joda/time/DateTimeZone.java","3","301","The method 'forTimeZone(TimeZone)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"3","org.joda.time","data/temp/Time_19f/src/main/java/org/joda/time/DateTimeZone.java","3","972","The method 'convertLocalToUTC(long, boolean)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.optimization","data/temp/Math_67f/src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java","3","226","The method 'optimize(UnivariateRealFunction, GoalType, double, double)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"

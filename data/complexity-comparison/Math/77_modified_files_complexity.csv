@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.linear","data/temp/Math_77f/src/main/java/org/apache/commons/math/linear/ArrayRealVector.java","3","31","The class 'ArrayRealVector' has a total cyclomatic complexity of 207 (highest 8).","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.linear","data/temp/Math_77f/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java","3","30","The class 'OpenMapRealVector' has a total cyclomatic complexity of 136 (highest 10).","Design","CyclomaticComplexity"
+"2","org.apache.commons.math.linear","data/temp/Math_77f/src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java","3","753","The method 'equals(Object)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

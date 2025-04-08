@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_159f/src/com/google/javascript/jscomp/InlineFunctions.java","3","55","The class 'InlineFunctions' has a total cyclomatic complexity of 82 (highest 13).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_159f/src/com/google/javascript/jscomp/InlineFunctions.java","3","234","The method 'maybeAddFunction(Function, JSModule)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_159f/src/com/google/javascript/jscomp/InlineFunctions.java","3","418","The method 'isCandidateUsage(Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

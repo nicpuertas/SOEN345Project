@@ -1,0 +1,6 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_136f/src/com/google/javascript/jscomp/MethodCompilerPass.java","3","126","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_136f/src/com/google/javascript/jscomp/MethodCompilerPass.java","3","183","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_136f/src/com/google/javascript/jscomp/RenameVars.java","3","171","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_136f/src/com/google/javascript/jscomp/RenameVars.java","3","389","The method 'assignNames(Set<Assignment>)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

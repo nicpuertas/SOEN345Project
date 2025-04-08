@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.fraction","data/temp/Math_91f/src/java/org/apache/commons/math/fraction/Fraction.java","3","30","The class 'Fraction' has a total cyclomatic complexity of 80 (highest 14).","Design","CyclomaticComplexity"
+"2","org.apache.commons.math.fraction","data/temp/Math_91f/src/java/org/apache/commons/math/fraction/Fraction.java","3","136","The constructor 'Fraction(double, double, int, int)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"
+"3","org.apache.commons.math.fraction","data/temp/Math_91f/src/java/org/apache/commons/math/fraction/Fraction.java","3","414","The method 'addSub(Fraction, boolean)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"
+"4","org.apache.commons.math.fraction","data/temp/Math_91f/src/java/org/apache/commons/math/fraction/Fraction.java","3","520","The method 'getReducedFraction(int, int)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

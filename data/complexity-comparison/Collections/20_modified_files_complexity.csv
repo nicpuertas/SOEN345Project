@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.collections.list","data/temp/Collections_20f/src/main/java/org/apache/commons/collections/list/TreeList.java","3","277","The class 'AVLNode' has a total cyclomatic complexity of 91 (highest 14).","Design","CyclomaticComplexity"
+"2","org.apache.commons.collections.list","data/temp/Collections_20f/src/main/java/org/apache/commons/collections/list/TreeList.java","3","540","The method 'removeSelf()' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"

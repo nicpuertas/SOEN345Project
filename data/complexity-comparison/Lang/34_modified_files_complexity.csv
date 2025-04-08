@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang3.builder","data/temp/Lang_34f/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java","3","72","The class 'ToStringStyle' has a total cyclomatic complexity of 219 (highest 28).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang3.builder","data/temp/Lang_34f/src/main/java/org/apache/commons/lang3/builder/ToStringStyle.java","3","468","The method 'appendInternal(StringBuffer, String, Object, boolean)' has a cyclomatic complexity of 28.","Design","CyclomaticComplexity"

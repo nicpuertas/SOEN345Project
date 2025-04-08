@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.optimization.univariate","data/temp/Math_66f/src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java","3","86","The method 'localMin(boolean, double, double, double, double, double)' has a cyclomatic complexity of 31.","Design","CyclomaticComplexity"

@@ -1,0 +1,8 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_155f/src/com/google/javascript/jscomp/InlineVariables.java","3","143","The class 'InliningBehavior' has a total cyclomatic complexity of 105 (highest 19).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_155f/src/com/google/javascript/jscomp/InlineVariables.java","3","257","The method 'inlineNonConstants(Var, ReferenceCollection, boolean)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_155f/src/com/google/javascript/jscomp/InlineVariables.java","3","521","The method 'canInline(Reference, Reference, Reference)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_155f/src/com/google/javascript/jscomp/InlineVariables.java","3","670","The method 'isImmutableAndWellDefinedVariable(Var, ReferenceCollection)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_155f/src/com/google/javascript/jscomp/ReferenceCollectingCallback.java","3","172","The method 'isBlockBoundary(Node, Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"

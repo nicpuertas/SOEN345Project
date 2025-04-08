@@ -1,0 +1,7 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_59f/src/com/google/javascript/jscomp/Compiler.java","3","68","The class 'Compiler' has a total cyclomatic complexity of 266 (highest 25).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_59f/src/com/google/javascript/jscomp/Compiler.java","3","226","The method 'initOptions(CompilerOptions)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_59f/src/com/google/javascript/jscomp/Compiler.java","3","633","The method 'compileInternal()' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_59f/src/com/google/javascript/jscomp/Compiler.java","3","723","The method 'check()' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"5","com.google.javascript.jscomp","data/temp/Closure_59f/src/com/google/javascript/jscomp/Compiler.java","3","1128","The method 'parseInputs()' has a cyclomatic complexity of 25.","Design","CyclomaticComplexity"
+"6","com.google.javascript.jscomp","data/temp/Closure_59f/src/com/google/javascript/jscomp/Compiler.java","3","1434","The method 'call()' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_92f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","37","The class 'ProcessClosurePrimitives' has a total cyclomatic complexity of 120 (highest 28).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_92f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","145","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 28.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_92f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","327","The method 'processBaseClassCall(NodeTraversal, Node)' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_92f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","547","The method 'trySimplifyNewDate(NodeTraversal, Node, Node)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

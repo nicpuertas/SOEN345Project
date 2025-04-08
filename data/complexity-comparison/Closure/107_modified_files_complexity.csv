@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_107f/src/com/google/javascript/jscomp/CommandLineRunner.java","3","710","The method 'initConfigFromFlags(String[], PrintStream)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_107f/src/com/google/javascript/jscomp/CommandLineRunner.java","3","806","The method 'createOptions()' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.geometry.euclidean.threed","data/temp/Math_52f/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java","3","95","The class 'Rotation' has a total cyclomatic complexity of 100 (highest 48).","Design","CyclomaticComplexity"
+"2","org.apache.commons.math.geometry.euclidean.threed","data/temp/Math_52f/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java","3","220","The constructor 'Rotation(double[][], double)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"3","org.apache.commons.math.geometry.euclidean.threed","data/temp/Math_52f/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java","3","570","The method 'getAngles(RotationOrder)' has a cyclomatic complexity of 48.","Design","CyclomaticComplexity"

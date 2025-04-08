@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang.text","data/temp/Lang_43f/src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java","3","142","The method 'applyPattern(String)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang.text","data/temp/Lang_43f/src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java","3","270","The method 'readArgumentIndex(String, ParsePosition)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang.text","data/temp/Lang_43f/src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java","3","417","The method 'appendQuotedString(String, ParsePosition, StringBuffer, boolean)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

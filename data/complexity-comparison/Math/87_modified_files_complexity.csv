@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.optimization.linear","data/temp/Math_87f/src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java","3","123","The method 'createTableau(boolean)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"

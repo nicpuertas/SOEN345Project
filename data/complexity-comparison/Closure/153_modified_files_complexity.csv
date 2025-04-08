@@ -1,0 +1,6 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_153f/src/com/google/javascript/jscomp/Normalize.java","3","228","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_153f/src/com/google/javascript/jscomp/Normalize.java","3","485","The method 'extractForInitializer(Node, Node, Node)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_153f/src/com/google/javascript/jscomp/Normalize.java","3","638","The method 'onRedeclaration(Scope, String, Node, CompilerInput)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_153f/src/com/google/javascript/jscomp/SyntacticScopeCreator.java","3","117","The method 'scanVars(Node, Node)' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

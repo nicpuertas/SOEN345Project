@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_163f/src/com/google/javascript/jscomp/AnalyzePrototypeProperties.java","3","250","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 25.","Design","CyclomaticComplexity"
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_163f/src/com/google/javascript/jscomp/CrossModuleMethodMotion.java","3","96","The method 'moveMethods(Collection<NameInfo>)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"

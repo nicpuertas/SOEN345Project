@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang3.time","data/temp/Lang_9f/src/main/java/org/apache/commons/lang3/time/FastDateParser.java","3","68","The class 'FastDateParser' has a total cyclomatic complexity of 99 (highest 26).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang3.time","data/temp/Lang_9f/src/main/java/org/apache/commons/lang3/time/FastDateParser.java","3","306","The method 'escapeRegex(StringBuilder, String, boolean)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"
+"3","org.apache.commons.lang3.time","data/temp/Lang_9f/src/main/java/org/apache/commons/lang3/time/FastDateParser.java","3","537","The method 'getStrategy(String)' has a cyclomatic complexity of 26.","Design","CyclomaticComplexity"

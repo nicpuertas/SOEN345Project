@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.optimization.fitting","data/temp/Math_25f/src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java","3","257","The method 'guessAOmega()' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.stat","data/temp/Math_75f/src/main/java/org/apache/commons/math/stat/Frequency.java","3","381","The method 'getCumFreq(Comparable<?>)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

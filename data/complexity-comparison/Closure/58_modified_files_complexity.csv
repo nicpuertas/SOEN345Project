@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_58f/src/com/google/javascript/jscomp/LiveVariablesAnalysis.java","3","178","The method 'computeGenKill(Node, BitSet, BitSet, boolean)' has a cyclomatic complexity of 25.","Design","CyclomaticComplexity"

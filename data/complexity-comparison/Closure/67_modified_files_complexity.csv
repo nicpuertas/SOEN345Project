@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_67f/src/com/google/javascript/jscomp/AnalyzePrototypeProperties.java","3","220","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 23.","Design","CyclomaticComplexity"

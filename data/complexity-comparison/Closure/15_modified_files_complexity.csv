@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_15f/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java","3","84","The method 'apply(Node)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_15f/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java","3","195","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_15f/src/com/google/javascript/jscomp/FlowSensitiveInlineVariables.java","3","259","The method 'canInline()' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"

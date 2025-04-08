@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.rhino.jstype","data/temp/Closure_4f/src/com/google/javascript/rhino/jstype/NamedType.java","3","266","The method 'lookupViaProperties(ErrorReporter, StaticScope<JSType>)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

@@ -1,0 +1,5 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.optimization.linear","data/temp/Math_33f/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java","3","63","The class 'SimplexTableau' has a total cyclomatic complexity of 84 (highest 13).","Design","CyclomaticComplexity"
+"2","org.apache.commons.math3.optimization.linear","data/temp/Math_33f/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java","3","178","The method 'createTableau(boolean)' has a cyclomatic complexity of 13.","Design","CyclomaticComplexity"
+"3","org.apache.commons.math3.optimization.linear","data/temp/Math_33f/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java","3","327","The method 'dropPhase1Objective()' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
+"4","org.apache.commons.math3.optimization.linear","data/temp/Math_33f/src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java","3","396","The method 'getSolution()' has a cyclomatic complexity of 11.","Design","CyclomaticComplexity"

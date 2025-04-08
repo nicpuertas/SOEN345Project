@@ -1,0 +1,6 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_113f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","42","The class 'ProcessClosurePrimitives' has a total cyclomatic complexity of 155 (highest 29).","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_113f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","202","The method 'visit(NodeTraversal, Node, Node)' has a cyclomatic complexity of 29.","Design","CyclomaticComplexity"
+"3","com.google.javascript.jscomp","data/temp/Closure_113f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","430","The method 'processBaseClassCall(NodeTraversal, Node)' has a cyclomatic complexity of 16.","Design","CyclomaticComplexity"
+"4","com.google.javascript.jscomp","data/temp/Closure_113f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","606","The method 'processSetCssNameMapping(NodeTraversal, Node, Node)' has a cyclomatic complexity of 19.","Design","CyclomaticComplexity"
+"5","com.google.javascript.jscomp","data/temp/Closure_113f/src/com/google/javascript/jscomp/ProcessClosurePrimitives.java","3","964","The method 'replace()' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

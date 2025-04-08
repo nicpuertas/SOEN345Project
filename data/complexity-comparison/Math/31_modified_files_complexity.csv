@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.util","data/temp/Math_31f/src/main/java/org/apache/commons/math3/util/ContinuedFraction.java","3","123","The method 'evaluate(double, double, int)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang","data/temp/Lang_51f/src/java/org/apache/commons/lang/BooleanUtils.java","3","34","The class 'BooleanUtils' has a total cyclomatic complexity of 129 (highest 10).","Design","CyclomaticComplexity"
+"2","org.apache.commons.lang","data/temp/Lang_51f/src/java/org/apache/commons/lang/BooleanUtils.java","3","649","The method 'toBoolean(String)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

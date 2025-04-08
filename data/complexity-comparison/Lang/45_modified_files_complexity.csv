@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang","data/temp/Lang_45f/src/java/org/apache/commons/lang/WordUtils.java","3","605","The method 'abbreviate(String, int, int, String)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"

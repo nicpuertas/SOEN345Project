@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.joda.time.base","data/temp/Time_22f/src/main/java/org/joda/time/base/BasePeriod.java","3","145","The constructor 'BasePeriod(ReadablePartial, ReadablePartial, PeriodType)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"

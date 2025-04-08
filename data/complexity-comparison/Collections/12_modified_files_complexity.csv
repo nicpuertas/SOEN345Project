@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.collections","data/temp/Collections_12f/src/java/org/apache/commons/collections/ExtendedProperties.java","3","150","The class 'ExtendedProperties' has a total cyclomatic complexity of 219 (highest 15).","Design","CyclomaticComplexity"
+"2","org.apache.commons.collections","data/temp/Collections_12f/src/java/org/apache/commons/collections/ExtendedProperties.java","3","233","The method 'interpolateHelper(String, List)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"
+"3","org.apache.commons.collections","data/temp/Collections_12f/src/java/org/apache/commons/collections/ExtendedProperties.java","3","566","The method 'load(InputStream, String)' has a cyclomatic complexity of 15.","Design","CyclomaticComplexity"

@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math3.optimization.direct","data/temp/Math_19f/src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java","3","91","The class 'CMAESOptimizer' has a total cyclomatic complexity of 163 (highest 36).","Design","CyclomaticComplexity"
+"2","org.apache.commons.math3.optimization.direct","data/temp/Math_19f/src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java","3","355","The method 'doOptimize()' has a cyclomatic complexity of 36.","Design","CyclomaticComplexity"
+"3","org.apache.commons.math3.optimization.direct","data/temp/Math_19f/src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java","3","504","The method 'checkParameters()' has a cyclomatic complexity of 22.","Design","CyclomaticComplexity"

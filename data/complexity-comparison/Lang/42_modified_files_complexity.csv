@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.lang","data/temp/Lang_42f/src/java/org/apache/commons/lang/Entities.java","3","932","The method 'doUnescape(Writer, String, int)' has a cyclomatic complexity of 14.","Design","CyclomaticComplexity"

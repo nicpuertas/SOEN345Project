@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","org.apache.commons.math.stat.descriptive","data/temp/Math_43f/src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java","3","668","The method 'copy(SummaryStatistics, SummaryStatistics)' has a cyclomatic complexity of 12.","Design","CyclomaticComplexity"

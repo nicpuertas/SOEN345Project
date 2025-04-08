@@ -1,0 +1,3 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","com.google.javascript.jscomp","data/temp/Closure_118f/src/com/google/javascript/jscomp/DisambiguateProperties.java","3","857","The method 'getTypeWithProperty(String, JSType)' has a cyclomatic complexity of 17.","Design","CyclomaticComplexity"
+"2","com.google.javascript.jscomp","data/temp/Closure_118f/src/com/google/javascript/jscomp/DisambiguateProperties.java","3","928","The method 'recordInterfaces(JSType, JSType, Property)' has a cyclomatic complexity of 10.","Design","CyclomaticComplexity"
