@@ -76,6 +76,11 @@ Run the complete experiment with:
 ```bash
 ./run-experiment.sh
 ```
+Run the second enhanced experiment with:
+
+```bash
+./enhanced-experiment.sh
+```
 
 This script will:
 1. Check if requirements are installed
