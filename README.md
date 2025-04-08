@@ -56,14 +56,17 @@ Ensure you have the following directory structure:
 ├── defects4j/             # The Defects4J framework
 ├── data/
 │   ├── projects/          # Will store checked-out projects 
-│   └── results/           # Will store analysis results
+│   ├── results/           # Will store analysis results
+│   └── complexity-comparison       # Will store complexity-comparison results           
 ├── scripts/               # Contains shell scripts for analysis
 │   ├── checkout-projects.sh
 │   ├── analyze-complexity.sh
 │   └── visualize-results.js
 ├── src/                   # Contains JavaScript analysis scripts
-│   └── correlation-analysis.js
-└── run-experiment.sh      # Main execution script
+│   ├──  correlation-analysis.js
+│   └──  compare-complexity.js
+├── run-experiment.sh      # Main execution script
+└── enhanced-experiment.sh # Second execution script
 ```
 
 ## Running the Experiment
