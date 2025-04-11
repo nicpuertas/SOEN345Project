@@ -97,6 +97,7 @@ After running the experiment:
 1. Open `data/results/visualization.html` in a web browser to see the graphical representation
 2. Check `data/results/correlation-analysis.json` for the Pearson correlation coefficient
 3. Review `data/results/analysis-results.json` for raw data on each project
+4. Review `data/results/complexity-comparisons-results.json` for granular cyclomatic complexity between buggy and fixed projects
 
 ## Modifying the Project Set
 
